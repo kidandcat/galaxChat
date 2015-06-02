@@ -24,7 +24,7 @@ body {
 	position: absolute;
 	background-color: #C0C0C0;
 	border: 1px solid blue;
-	padding: 2px;
+	padding: 0.125em;
 	display: none;
 	margin: 0;
 	list-style-type: none;
@@ -39,7 +39,7 @@ a {
 
 .hidder1 {
   position: fixed;
-  margin-left: -8px;
+  margin-left: -0.5em;
   width: 110%;
   height: 100%;
   display: block;
@@ -74,22 +74,22 @@ a {
 }
 
 #area2 {
-	width: 570px;
-	height: 340px;
+	width: 35.625em;
+	height: 21.25em;
 	border: 1px solid black;
 	overflow-y: scroll;
 	background-color: #002451;
 	opacity: 0.75;
-	border-radius: 0px 25px 25px 25px;
+	border-radius: 0em 1.5625em 1.5625em 1.5625em;
 	overflow: hidden;
 }
 
 #roomstab {
   isplay: inline-block;
-	width: 200px;
-	height: 360px;
+	width: 12.5em;
+	height: 22.5em;
 	opacity: 0.75;
-	border-radius: 0px 25px 25px 25px;
+	border-radius: 0em 1.5625em 1.5625em 1.5625em;
 	overflow-y: hidden;
 	background-color: #002451;
 }
@@ -101,10 +101,10 @@ a {
  	transform: translate(-50%, -50%);
 	background-color:#848484;
 	display: none;
-	width: 400px;
-	height: 110px;
-	border: solid 4px;
-	border-radius: 8px;
+	width: 25em;
+	height: 6.875em;
+	border: solid 0.25em;
+	border-radius: 0.5em;
 	padding-top: 5%;
 	text-align: center;
 	z-index: 1000;
@@ -115,20 +115,20 @@ a {
 	background-color: #848484;
 	opacity: 0.4;
 	position: fixed:
-	width: 2000px;
-	height: 2000px;
+	width: 125em;
+	height: 125em;
 }
 
 .tabler
 {
-	width: 98px;
-	height: 32px;
+	width: 6.125em;
+	height: 2em;
 }
 
 .table1
 {
-	width: 30px;
-	height: 30px;
+	width: 1.875em;
+	height: 1.875em;
 	float: left;
 	border:1px solid black;
 }
