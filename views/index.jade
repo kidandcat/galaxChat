@@ -39,16 +39,16 @@ block content
     button(type="button", onclick="$('#editor').toggle();$('#canvas').toggle();") Mario
     input(type="text", id="deleteName", style="display:none;")
     input(type="button", id="deleteButton",value="delete",style="display:none;")
-    canvas(id="canvas", width="640", height="480", style="display:none;top:20px;left:50%;width:500px;height:500px;float:right;position:absolute;border-radius:25px")
     div(id="show", class="show")
       div(onclick="priv()") Private
       div(onclick="ban()") Ban
       div(onclick="document.getElementById('show').style.display = 'none'") Nothing
-   div(id="prof", style="float:left;margin-left:15px;margin-top:25px")
+   div(id="prof", style="float:left;margin-left:1.5625em;margin-top:1.5625em")
     div(id='listenerEditor')
-     div(id="editor", style="width:500px;height:500px;opacity: 0.75;border-radius:25px;margin-right:15px")
+     div(id="editor", style="width:31.25em;height:31.25em;opacity: 0.75;border-radius:1.5625em;margin-right:0.9375em")
         p Max 100000 chars
-   div(class="noprof", style="float:left;margin-top:25px")
+   canvas(id="canvas", style="display:none;top:1.25em;width:31.25em;height:31.25em;float:left;position:relative;border-radius:1.5625em")
+   div(class="noprof", style="float:left;margin-top:1.5625em")
       div(id='roomstab', verticalScrollPolicy='on', readonly)
   script(type='text/javascript', src="/alertify.js")
   script(type='text/javascript', src="/socket.io/socket.io.js")
