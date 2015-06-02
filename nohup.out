@@ -1,0 +1,2448 @@
+info: socket.io started
+[35m           SERVER  RUNNING[39m
+          [31md[39m[33me[39m[32mv[39m[34me[39m[35ml[39m[31mo[39m[33mp[39m[32me[39m[34md[39m [31mb[39m[33my[39m [34mA[39m[35ms[39m[31mk[39m[33my[39m
+[90m10:09:36[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m10:09:41[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m10:09:56[39m[32m   User [39mJairo[32m disconnected[39m
+[90m10:10:51[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m10:10:59[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m10:11:18[39m[32m   User [39mJairo[32m disconnected[39m
+[90m10:55:11[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m10:55:13[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m15:40:33[39m[36m   Socket connected from IP: [39m85.137.118.219
+[90m15:40:44[39m[36m   Socket [39m85.137.118.219[36m disconnected[39m
+[90m11:02:09[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m11:02:16[39m[32m   ***  User: [39mFRANCO[32m  |  Room: [39m1111[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+[90m11:02:17[39m[32m   ***  User: [39mFRANCO[32m  |  Room: [39m1111[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: FRANCO pass: 1111
+Password in text: 1111
+[90m11:02:28[39m[32m   User [39mFRANCO[32m disconnected[39m
+[90m12:05:34[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:05:37[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m12:05:41[39m[32m   User [39mJairo[32m disconnected[39m
+[90m12:05:44[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:05:47[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m12:07:23[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:07:25[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m12:07:37[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:07:39[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+warn: client not handshaken client should reconnect
+[90m17:04:33[39m[36m   Socket connected from IP: [39m66.249.65.48
+[90m17:05:33[39m[36m   Socket [39m66.249.65.48[36m disconnected[39m
+[90m19:27:46[39m[36m   Socket connected from IP: [39m185.13.202.221
+[90m19:27:55[39m[32m   ***  User: [39mMaria[32m  |  Room: [39mmariafrancesita[32m  |  IP: [39m185.13.202.221[32m  ***[39m
+user: Maria pass: mariafrancesita
+Password in text: mariafrancesita
+[90m19:28:33[39m[32m   User [39mMaria[32m disconnected[39m
+[90m19:28:45[39m[36m   Socket connected from IP: [39m185.13.202.221
+[90m19:28:49[39m[32m   ***  User: [39mMaria[32m  |  Room: [39mmariafrancesita[32m  |  IP: [39m185.13.202.221[32m  ***[39m
+user: Maria pass: mariafrancesita
+Password in text: mariafrancesita
+[90m19:29:02[39m[36m   Socket connected from IP: [39m85.137.118.219
+[90m19:29:14[39m[36m   Socket [39m85.137.118.219[36m disconnected[39m
+[90m19:29:33[39m[36m   Socket connected from IP: [39m85.137.118.219
+[90m19:29:38[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m85.137.118.219[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m19:29:49[39m[32m   User [39mJairo[32m disconnected[39m
+[90m19:30:03[39m[32m   User [39mMaria[32m disconnected[39m
+[90m19:30:20[39m[36m   Socket connected from IP: [39m185.13.202.221
+[90m19:30:45[39m[36m   Socket [39m185.13.202.221[36m disconnected[39m
+[90m21:01:17[39m[36m   Socket connected from IP: [39m85.137.118.219
+[90m21:01:17[39m[36m   Socket [39m85.137.118.219[36m disconnected[39m
+[90m21:04:22[39m[36m   Socket connected from IP: [39m85.137.118.219
+[90m21:04:27[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m85.137.118.219[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m21:04:29[39m[32m   User [39mJairo[32m disconnected[39m
+[90m08:24:20[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m08:24:24[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m08:24:43[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m08:24:49[39m[32m   ***  User: [39mMaria[32m  |  Room: [39mmariafrancesita[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Maria pass: mariafrancesita
+Password in text: mariafrancesita
+[90m08:27:47[39m[32m   User [39mJairo[32m disconnected[39m
+[90m08:27:52[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m08:28:17[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m08:28:21[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m08:28:30[39m[32m   User [39mMaria[32m disconnected[39m
+[90m08:28:37[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m08:28:37[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m08:29:17[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m08:29:17[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m08:30:31[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m08:30:31[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m08:31:44[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m08:31:48[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m08:31:59[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m08:32:00[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m08:32:14[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m08:32:14[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m08:32:41[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m08:32:41[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m08:32:54[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m08:32:55[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m08:33:07[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m08:33:07[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m08:34:07[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m08:34:13[39m[32m   User [39mJairo[32m disconnected[39m
+[90m08:34:27[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m08:34:30[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m08:44:45[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m08:44:58[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m09:13:07[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m09:13:10[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m09:13:22[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m09:13:28[39m[32m   ***  User: [39mCarlos[32m  |  Room: [39m1234[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Carlos pass: 1234
+Password in text: 1234
+[90m09:15:50[39m[32m   User [39mCarlos[32m disconnected[39m
+[90m09:15:50[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m09:15:54[39m[32m   ***  User: [39mCarlos[32m  |  Room: [39m1234[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Carlos pass: 1234
+Password in text: 1234
+[90m09:19:22[39m[32m   User [39mJairo[32m disconnected[39m
+[90m09:29:11[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m09:29:15[39m[32m   ***  User: [39mvictor[32m  |  Room: [39m123[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: victor pass: 123
+Password in text: 123
+[90m09:32:19[39m[32m   User [39mCarlos[32m disconnected[39m
+[90m09:36:23[39m[36m   Socket connected from IP: [39m65.49.14.57
+[90m09:36:26[39m[32m   ***  User: [39mxale94[32m  |  Room: [39mxdxdxd[32m  |  IP: [39m65.49.14.57[32m  ***[39m
+user: xale94 pass: xdxdxd
+Password in text: xdxdxd
+[90m09:37:51[39m[32m   User [39mxale94[32m disconnected[39m
+[90m10:19:10[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m10:19:13[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m10:21:16[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m10:21:33[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m10:21:36[39m[32m   ***  User: [39mpedro[32m  |  Room: [39mpedro1212[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: pedro pass: pedro1212
+Password in text: pedro1212
+[90m10:21:44[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m10:21:50[39m[32m   ***  User: [39mCarlos[32m  |  Room: [39m1234[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Carlos pass: 1234
+Password in text: 1234
+[90m10:21:54[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m10:21:57[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m10:25:11[39m[32m   ***  User: [39mMaria[32m  |  Room: [39mmariafrancesita[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Maria pass: mariafrancesita
+Password in text: mariafrancesita
+[90m10:28:17[39m[32m   User [39mvictor[32m disconnected[39m
+[90m10:28:32[39m[32m   User [39mCarlos[32m disconnected[39m
+[90m10:28:40[39m[32m   User [39mpedro[32m disconnected[39m
+[90m10:29:39[39m[32m   User [39mJairo[32m disconnected[39m
+[90m10:50:03[39m[32m   User [39mMaria[32m disconnected[39m
+[90m10:50:09[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m10:50:09[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m10:55:34[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m10:57:50[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m10:58:00[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m10:58:01[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m08:32:09[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m08:32:09[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m11:52:51[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m11:52:58[39m[32m   ***  User: [39mCarlos[32m  |  Room: [39m1234[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Carlos pass: 1234
+Password in text: 1234
+[90m12:14:04[39m[32m   User [39mCarlos[32m disconnected[39m
+[90m12:14:11[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:14:24[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m12:14:33[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:14:43[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m12:14:50[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:15:05[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:16:15[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m12:25:05[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m12:25:11[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:38:51[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m12:39:39[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:39:57[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:41:08[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m12:41:08[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m12:41:45[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:42:29[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m12:42:33[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:42:41[39m[32m   ***  User: [39mCarlos[32m  |  Room: [39m1234[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Carlos pass: 1234
+Password in text: 1234
+[90m12:43:45[39m[32m   User [39mCarlos[32m disconnected[39m
+[90m12:43:52[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:44:05[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m12:44:28[39m[36m   Socket connected from IP: [39m2.139.242.136
+warn: client not handshaken client should reconnect
+[90m12:45:26[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:45:53[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m12:46:37[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:46:51[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m12:48:01[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m12:48:33[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:49:45[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m12:49:52[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:50:05[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m12:50:08[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:50:11[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:54:15[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m12:54:18[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m12:54:21[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:54:32[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:54:44[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:54:48[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:54:58[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:55:02[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m12:55:02[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m12:55:02[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m12:55:02[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m12:55:02[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m12:57:34[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:57:39[39m[32m   ***  User: [39mjairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: jairo pass: akatsuki
+Password in text: akatsuki
+[90m13:03:09[39m[32m   User [39mjairo[32m disconnected[39m
+[90m13:39:43[39m[36m   Socket connected from IP: [39m65.49.14.148
+[90m13:39:47[39m[32m   ***  User: [39mxale94[32m  |  Room: [39mxdxdxd[32m  |  IP: [39m65.49.14.148[32m  ***[39m
+user: xale94 pass: xdxdxd
+Password in text: xdxdxd
+[90m13:44:00[39m[32m   User [39mxale94[32m disconnected[39m
+[90m11:13:32[39m[36m   Socket connected from IP: [39m66.249.93.168
+[90m11:14:59[39m[36m   Socket [39m66.249.93.168[36m disconnected[39m
+[90m23:13:12[39m[36m   Socket connected from IP: [39m66.249.65.52
+[90m23:14:12[39m[36m   Socket [39m66.249.65.52[36m disconnected[39m
+[90m12:37:35[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:37:45[39m[32m   ***  User: [39menrike[32m  |  Room: [39melr[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: enrike pass: elr
+Password in text: 
+[90m12:37:47[39m[32m   ***  User: [39menrike[32m  |  Room: [39melr[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: enrike pass: elr
+Password in text: 
+[90m12:37:48[39m[32m   ***  User: [39menrike[32m  |  Room: [39melr[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: enrike pass: elr
+Password in text: 
+[90m12:37:51[39m[32m   ***  User: [39menrike[32m  |  Room: [39melr4[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: enrike pass: elr4
+Password in text: 
+[90m12:37:52[39m[32m   ***  User: [39menrike[32m  |  Room: [39melr4[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: enrike pass: elr4
+Password in text: 
+[90m12:37:53[39m[32m   ***  User: [39menrike[32m  |  Room: [39melr4[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: enrike pass: elr4
+Password in text: 
+[90m12:38:02[39m[32m   ***  User: [39maaaaaaaaaaaaaaaaaaa[32m  |  Room: [39melr4334[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+[90m12:38:02[39m[32m   ***  User: [39maaaaaaaaaaaaaaaaaaa[32m  |  Room: [39melr4334[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: aaaaaaaaaaaaaaaaaaa pass: elr4334
+Password in text: elr4334
+[90m12:38:08[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:38:15[39m[32m   ***  User: [39mCristianMain[32m  |  Room: [39mCristianMain[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: CristianMain pass: CristianMain
+Password in text: CristianMain
+[90m12:39:23[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:40:10[39m[32m   User [39mCristianMain[32m disconnected[39m
+[90m12:42:03[39m[32m   ***  User: [39mMaria[32m  |  Room: [39mmariafrancesita[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Maria pass: mariafrancesita
+Password in text: mariafrancesita
+[90m12:48:13[39m[32m   User [39mMaria[32m disconnected[39m
+[90m12:49:41[39m[32m   User [39maaaaaaaaaaaaaaaaaaa[32m disconnected[39m
+[90m13:23:14[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m13:23:29[39m[32m   ***  User: [39mMaría[32m  |  Room: [39mmariafrancesita[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: María pass: mariafrancesita
+Password in text: mariafrancesita
+[90m13:34:38[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m13:34:42[39m[32m   ***  User: [39mpedro[32m  |  Room: [39mpedro1212[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: pedro pass: pedro1212
+Password in text: pedro1212
+[90m13:40:45[39m[32m   User [39mpedro[32m disconnected[39m
+[90m13:48:02[39m[32m   User [39mMaría[32m disconnected[39m
+[90m14:34:42[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m14:34:45[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m14:34:46[39m[32m   ***  User: [39mMaria[32m  |  Room: [39mmariafrancesita[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Maria pass: mariafrancesita
+Password in text: mariafrancesita
+[90m14:34:49[39m[32m   ***  User: [39mpedro[32m  |  Room: [39mpedro1212[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: pedro pass: pedro1212
+Password in text: pedro1212
+[90m14:39:08[39m[32m   User [39mpedro[32m disconnected[39m
+[90m14:39:26[39m[32m   User [39mMaria[32m disconnected[39m
+[90m16:03:37[39m[36m   Socket connected from IP: [39m85.137.118.219
+[90m16:03:40[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m85.137.118.219[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m16:03:42[39m[32m   User [39mJairo[32m disconnected[39m
+[90m13:50:10[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m13:50:11[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m13:50:27[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m13:50:33[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m14:33:24[39m[32m   User [39mJairo[32m disconnected[39m
+[90m16:04:22[39m[36m   Socket connected from IP: [39m85.137.118.219
+[90m16:04:24[39m[36m   Socket [39m85.137.118.219[36m disconnected[39m
+[90m17:22:48[39m[36m   Socket connected from IP: [39m85.137.118.219
+[90m17:23:13[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m85.137.118.219[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m17:23:15[39m[32m   User [39mJairo[32m disconnected[39m
+[90m18:34:53[39m[36m   Socket connected from IP: [39m185.13.202.237
+[90m18:34:57[39m[32m   ***  User: [39mMaria[32m  |  Room: [39mmariafrancesita[32m  |  IP: [39m185.13.202.237[32m  ***[39m
+user: Maria pass: mariafrancesita
+Password in text: mariafrancesita
+[90m18:37:37[39m[32m   User [39mMaria[32m disconnected[39m
+[90m08:23:02[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m08:23:05[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m08:23:11[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m08:23:12[39m[32m   ***  User: [39mqwe[32m  |  Room: [39mqwe[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: qwe pass: qwe
+Password in text: qwe
+[90m08:23:18[39m[32m   User [39mqwe[32m disconnected[39m
+[90m08:32:23[39m[32m   User [39mJairo[32m disconnected[39m
+[90m08:36:10[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m08:36:14[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m08:50:28[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m08:50:43[39m[32m   ***  User: [39msandra[32m  |  Room: [39msandra[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+[90m08:50:51[39m[32m   ***  User: [39msandra[32m  |  Room: [39msandra[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: sandra pass: sandra
+Password in text: sandra
+[90m10:19:34[39m[32m   User [39mJairo[32m disconnected[39m
+[90m10:19:53[39m[32m   User [39msandra[32m disconnected[39m
+[90m10:26:27[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m10:28:07[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m10:37:01[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m10:37:09[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m11:14:25[39m[32m   User [39mJairo[32m disconnected[39m
+[90m12:50:00[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:50:06[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m13:11:50[39m[32m   User [39mJairo[32m disconnected[39m
+[90m13:30:08[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m13:30:13[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m13:30:18[39m[32m   User [39mJairo[32m disconnected[39m
+warn: client not handshaken client should reconnect
+[90m09:23:43[39m[36m   Socket connected from IP: [39m66.249.67.37
+[90m09:24:43[39m[36m   Socket [39m66.249.67.37[36m disconnected[39m
+[90m12:08:43[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:09:09[39m[36m   Socket connected from IP: [39m65.49.14.93
+[90m12:09:12[39m[32m   ***  User: [39mGonzalo[32m  |  Room: [39m1234[32m  |  IP: [39m65.49.14.93[32m  ***[39m
+user: Gonzalo pass: 1234
+Password in text: gonzalo
+[90m12:09:18[39m[32m   ***  User: [39mGonz[32m  |  Room: [39m1234[32m  |  IP: [39m65.49.14.93[32m  ***[39m
+[90m12:09:24[39m[32m   ***  User: [39mGonz[32m  |  Room: [39m1234[32m  |  IP: [39m65.49.14.93[32m  ***[39m
+user: Gonz pass: 1234
+Password in text: 1234
+[90m12:09:30[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:09:51[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:09:53[39m[32m   ***  User: [39mpedro[32m  |  Room: [39mpedro1212[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: pedro pass: pedro1212
+Password in text: pedro1212
+[90m12:09:53[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+warn: client not handshaken client should reconnect
+[90m12:10:02[39m[32m   ***  User: [39mMaria[32m  |  Room: [39mmariafrancesita[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Maria pass: mariafrancesita
+Password in text: mariafrancesita
+[90m12:10:47[39m[36m   Socket connected from IP: [39m2.139.242.136
+warn: client not handshaken client should reconnect
+[90m12:11:40[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:11:45[39m[32m   ***  User: [39mas[32m  |  Room: [39mas[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+[90m12:11:56[39m[32m   ***  User: [39mas[32m  |  Room: [39mas[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: as pass: as
+Password in text: as
+[90m12:12:05[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m12:12:18[39m[32m   User [39mGonz[32m disconnected[39m
+[90m12:12:26[39m[36m   Socket connected from IP: [39m65.49.14.155
+[90m12:12:28[39m[32m   ***  User: [39mGonz[32m  |  Room: [39m1234[32m  |  IP: [39m65.49.14.155[32m  ***[39m
+user: Gonz pass: 1234
+Password in text: 1234
+[90m12:15:08[39m[32m   User [39mGonz[32m disconnected[39m
+[90m12:15:12[39m[36m   Socket connected from IP: [39m65.49.14.60
+[90m12:15:59[39m[36m   Socket [39m65.49.14.60[36m disconnected[39m
+[90m12:16:12[39m[36m   Socket connected from IP: [39m65.49.14.163
+[90m12:16:59[39m[36m   Socket [39m65.49.14.163[36m disconnected[39m
+[90m12:17:26[39m[32m   User [39mpedro[32m disconnected[39m
+[90m12:30:07[39m[32m   User [39mas[32m disconnected[39m
+[90m12:39:12[39m[32m   User [39mMaria[32m disconnected[39m
+[90m12:42:39[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:42:57[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m12:42:58[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:45:21[39m[32m   ***  User: [39mjose[32m  |  Room: [39mjofse[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: jose pass: jofse
+Password in text: jose
+[90m12:45:22[39m[32m   ***  User: [39mjose[32m  |  Room: [39mjofse[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: jose pass: jofse
+Password in text: jose
+[90m12:45:24[39m[32m   ***  User: [39mjose[32m  |  Room: [39mjofse[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: jose pass: jofse
+Password in text: jose
+[90m12:46:10[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:46:11[39m[32m   ***  User: [39mlll[32m  |  Room: [39mlll[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+[90m12:46:13[39m[32m   ***  User: [39mlll[32m  |  Room: [39mlll[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: lll pass: lll
+Password in text: lll
+[90m12:46:14[39m[32m   ***  User: [39mMaria[32m  |  Room: [39mmariafrancesita[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Maria pass: mariafrancesita
+Password in text: mariafrancesita
+[90m12:47:31[39m[32m   User [39mlll[32m disconnected[39m
+[90m12:47:37[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:47:39[39m[32m   ***  User: [39mlll[32m  |  Room: [39mlll[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: lll pass: lll
+Password in text: lll
+[90m12:47:41[39m[32m   ***  User: [39mlll[32m  |  Room: [39mlll[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: lll pass: lll
+Password in text: lll
+[90m12:50:41[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:50:48[39m[32m   ***  User: [39myonki2048[32m  |  Room: [39m1234[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: yonki2048 pass: 1234
+Password in text: 1234
+[90m12:52:40[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:53:33[39m[32m   ***  User: [39mpedro[32m  |  Room: [39mpedro1212[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: pedro pass: pedro1212
+Password in text: pedro1212
+[90m12:55:05[39m[32m   User [39mpedro[32m disconnected[39m
+[90m12:55:07[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:55:09[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m12:55:12[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m13:13:17[39m[32m   User [39mlll[32m disconnected[39m
+[90m13:13:22[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m13:13:26[39m[32m   User [39myonki2048[32m disconnected[39m
+[90m13:13:28[39m[32m   User [39mMaria[32m disconnected[39m
+[90m13:13:36[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m13:13:36[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m13:13:39[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m13:13:43[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m13:13:44[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m13:14:07[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m13:18:48[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m13:18:50[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m13:18:53[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m13:32:35[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m13:32:36[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m13:32:36[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m13:32:37[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m13:32:38[39m[32m   ***  User: [39mpedro[32m  |  Room: [39mpedro1212[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: pedro pass: pedro1212
+Password in text: pedro1212
+[90m13:32:41[39m[32m   ***  User: [39mMaria[32m  |  Room: [39mmariafrancesita[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Maria pass: mariafrancesita
+Password in text: mariafrancesita
+[90m13:33:45[39m[32m   User [39mpedro[32m disconnected[39m
+[90m13:34:45[39m[32m   User [39mMaria[32m disconnected[39m
+[90m13:42:18[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m20:24:44[39m[36m   Socket connected from IP: [39m85.137.118.219
+[90m20:24:48[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m85.137.118.219[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m20:25:00[39m[32m   User [39mJairo[32m disconnected[39m
+[90m09:51:04[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m09:51:38[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m09:52:57[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m09:53:01[39m[32m   ***  User: [39mas[32m  |  Room: [39mas[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: as pass: as
+Password in text: as
+[90m09:53:04[39m[32m   User [39mas[32m disconnected[39m
+[90m09:53:08[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m09:53:14[39m[32m   ***  User: [39mvictor[32m  |  Room: [39m123[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: victor pass: 123
+Password in text: 123
+[90m09:54:42[39m[32m   User [39mvictor[32m disconnected[39m
+[90m10:06:29[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m10:06:32[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m10:14:11[39m[32m   User [39mJairo[32m disconnected[39m
+[90m10:14:12[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m10:14:15[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m10:16:20[39m[32m   User [39mJairo[32m disconnected[39m
+[90m10:16:21[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m10:16:24[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m10:24:03[39m[32m   User [39mJairo[32m disconnected[39m
+[90m10:24:04[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m10:24:08[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m10:27:27[39m[32m   User [39mJairo[32m disconnected[39m
+[90m10:27:28[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m10:27:31[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m10:28:03[39m[32m   User [39mJairo[32m disconnected[39m
+[90m10:31:59[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m10:32:02[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m10:34:21[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m10:34:32[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m11:10:39[39m[32m   User [39mJairo[32m disconnected[39m
+[90m11:51:49[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m11:51:55[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m11:52:50[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m11:52:54[39m[32m   ***  User: [39mqwe[32m  |  Room: [39mqwe[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: qwe pass: qwe
+Password in text: qwe
+[90m11:53:07[39m[32m   User [39mqwe[32m disconnected[39m
+[90m11:54:33[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m11:54:33[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m11:54:39[39m[32m   ***  User: [39mGonz[32m  |  Room: [39m1234[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Gonz pass: 1234
+Password in text: 1234
+[90m11:54:45[39m[32m   ***  User: [39mMaria[32m  |  Room: [39mmariafrancesita[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Maria pass: mariafrancesita
+Password in text: mariafrancesita
+[90m11:56:23[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m11:56:45[39m[32m   ***  User: [39mU2P2Apellidos,Nombre[32m  |  Room: [39maaa[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+[90m11:56:47[39m[32m   ***  User: [39mU2P2Apellidos,Nombre[32m  |  Room: [39maaa[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: U2P2Apellidos,Nombre pass: aaa
+Password in text: aaa
+[90m12:04:08[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:04:14[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m12:05:25[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:05:36[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:05:57[39m[32m   User [39mGonz[32m disconnected[39m
+[90m12:06:35[39m[32m   User [39mU2P2Apellidos,Nombre[32m disconnected[39m
+[90m12:08:32[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:08:48[39m[32m   ***  User: [39mpollonEnamoradizo[32m  |  Room: [39m123456[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+[90m12:08:50[39m[32m   ***  User: [39mpollonEnamoradizo[32m  |  Room: [39m123456[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: pollonEnamoradizo pass: 123456
+Password in text: 123456
+[90m12:10:02[39m[32m   User [39mMaria[32m disconnected[39m
+[90m12:10:06[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:10:09[39m[32m   ***  User: [39mMaria[32m  |  Room: [39mmariafrancesita[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Maria pass: mariafrancesita
+Password in text: mariafrancesita
+[90m12:11:39[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m12:11:39[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m12:11:40[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:12:02[39m[32m   ***  User: [39mManoloElDelBombo[32m  |  Room: [39mManolo[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+[90m12:12:03[39m[32m   ***  User: [39mManoloElDelBombo[32m  |  Room: [39mManolo[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: ManoloElDelBombo pass: Manolo
+Password in text: Manolo
+[90m12:23:21[39m[32m   User [39mpollonEnamoradizo[32m disconnected[39m
+[90m12:25:18[39m[32m   User [39mMaria[32m disconnected[39m
+[90m12:25:37[39m[32m   User [39mManoloElDelBombo[32m disconnected[39m
+[90m12:26:25[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:26:30[39m[32m   User [39mJairo[32m disconnected[39m
+[90m12:28:42[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:31:19[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m12:31:20[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:31:23[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+
+module.js:340
+    throw err;
+          ^
+Error: Cannot find module 'rimraf'
+    at Function.Module._resolveFilename (module.js:338:15)
+    at Function.Module._load (module.js:280:25)
+    at Module.require (module.js:364:17)
+    at require (module.js:380:17)
+    at Object.<anonymous> (/home/ftp/Chat+Ace/routes/socket.js:9:14)
+    at Module._compile (module.js:456:26)
+    at Object.Module._extensions..js (module.js:474:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:312:12)
+    at Module.require (module.js:364:17)
+info: socket.io started
+[35m           SERVER  RUNNING[39m
+          [31md[39m[33me[39m[32mv[39m[34me[39m[35ml[39m[31mo[39m[33mp[39m[32me[39m[34md[39m [31mb[39m[33my[39m [34mA[39m[35ms[39m[31mk[39m[33my[39m
+[90m12:32:51[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:32:53[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m12:32:57[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:32:59[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+Deleted: P04-varios.pdf
+[90m12:33:43[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:33:51[39m[32m   ***  User: [39mMaria[32m  |  Room: [39mmariafrancesita[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Maria pass: mariafrancesita
+Password in text: mariafrancesita
+Deleted: index.html
+Deleted: Palabras.xml
+Deleted: Palabras.xml
+Deleted: 11109_10152834795870399_5519089475888076956_n.jpg.jpg
+Deleted: 11109_10152834795870399_5519089475888076956_n.jpg
+[90m12:37:17[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:37:18[39m[32m   ***  User: [39mqwe[32m  |  Room: [39mqwe[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: qwe pass: qwe
+Password in text: qwe
+[90m12:37:59[39m[32m   User [39mqwe[32m disconnected[39m
+Deleted: 11271_441631952654822_7997206767215491491_n.jpg
+[90m12:42:18[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:42:22[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m12:50:17[39m[32m   User [39mMaria[32m disconnected[39m
+[90m12:50:54[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:51:44[39m[32m   ***  User: [39mMaria[32m  |  Room: [39mmariafrancesita[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Maria pass: mariafrancesita
+Password in text: mariafrancesita
+[90m13:09:49[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m13:10:04[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m13:10:04[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m13:10:05[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m13:10:06[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m13:10:08[39m[32m   ***  User: [39mCarlos[32m  |  Room: [39m1234[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Carlos pass: 1234
+Password in text: 1234
+[90m13:10:46[39m[32m   User [39mCarlos[32m disconnected[39m
+[90m13:31:54[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m13:31:55[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m13:32:01[39m[32m   User [39mMaria[32m disconnected[39m
+[90m14:39:54[39m[32m   User [39mJairo[32m disconnected[39m
+[90m16:00:42[39m[36m   Socket connected from IP: [39m85.137.118.219
+[90m16:00:55[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m85.137.118.219[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m16:01:05[39m[32m   User [39mJairo[32m disconnected[39m
+[90m08:24:26[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m08:24:29[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+Deleted: Club.java
+Deleted: Socio.java
+Deleted: Bap-cOpIAAA5l3l.jpg
+Deleted: qwe
+[90m08:43:47[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m08:44:29[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m08:47:27[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m08:47:33[39m[32m   ***  User: [39mMaria[32m  |  Room: [39mmariafrancesita[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Maria pass: mariafrancesita
+Password in text: mariafrancesita
+[90m09:10:38[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m09:11:09[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+Deleted: 11109_10152834795870399_5519089475888076956_n.jpg
+Deleted: 11109_10152834795870399_5519089475888076956_n.jpg
+[90m10:15:02[39m[32m   User [39mJairo[32m disconnected[39m
+[90m10:22:19[39m[32m   User [39mMaria[32m disconnected[39m
+[90m10:24:20[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m10:24:24[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m11:12:47[39m[32m   User [39mJairo[32m disconnected[39m
+[90m12:40:58[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:41:25[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m12:48:14[39m[32m   User [39mJairo[32m disconnected[39m
+[90m22:01:59[39m[36m   Socket connected from IP: [39m85.137.118.219
+[90m22:02:03[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m85.137.118.219[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m22:02:07[39m[32m   User [39mJairo[32m disconnected[39m
+[90m10:28:48[39m[36m   Socket connected from IP: [39m2.139.242.137
+[90m10:28:52[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.137[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m10:47:43[39m[32m   User [39mJairo[32m disconnected[39m
+[90m10:47:45[39m[36m   Socket connected from IP: [39m2.139.242.137
+[90m10:47:48[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.137[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+info: socket.io started
+[35m           SERVER  RUNNING[39m
+          [31md[39m[33me[39m[32mv[39m[34me[39m[35ml[39m[31mo[39m[33mp[39m[32me[39m[34md[39m [31mb[39m[33my[39m [34mA[39m[35ms[39m[31mk[39m[33my[39m
+[90m10:59:03[39m[36m   Socket connected from IP: [39m2.139.242.137
+[90m10:59:03[39m[36m   Socket [39m2.139.242.137[36m disconnected[39m
+[90m10:59:08[39m[36m   Socket connected from IP: [39m2.139.242.137
+[90m10:59:11[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.137[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m11:02:30[39m[32m   User [39mJairo[32m disconnected[39m
+[90m11:56:30[39m[36m   Socket connected from IP: [39m2.139.242.137
+[90m11:56:36[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.137[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m12:44:27[39m[36m   Socket connected from IP: [39m2.139.242.137
+[90m12:44:27[39m[36m   Socket [39m2.139.242.137[36m disconnected[39m
+[90m12:51:02[39m[32m   User [39mJairo[32m disconnected[39m
+[90m12:51:08[39m[36m   Socket connected from IP: [39m2.139.242.137
+[90m12:52:30[39m[36m   Socket [39m2.139.242.137[36m disconnected[39m
+[90m13:14:49[39m[36m   Socket connected from IP: [39m2.139.242.137
+[90m13:14:52[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.137[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m13:15:29[39m[36m   Socket connected from IP: [39m2.139.242.137
+[90m13:16:37[39m[32m   ***  User: [39mMaria[32m  |  Room: [39mmariafrancesita[32m  |  IP: [39m2.139.242.137[32m  ***[39m
+user: Maria pass: mariafrancesita
+Password in text: mariafrancesita
+[90m13:17:45[39m[32m   User [39mJairo[32m disconnected[39m
+[90m13:21:46[39m[32m   User [39mMaria[32m disconnected[39m
+[90m13:28:58[39m[36m   Socket connected from IP: [39m2.139.242.137
+[90m13:29:10[39m[32m   ***  User: [39mpedro[32m  |  Room: [39mpedro1212[32m  |  IP: [39m2.139.242.137[32m  ***[39m
+user: pedro pass: pedro1212
+Password in text: pedro1212
+[90m13:30:30[39m[32m   User [39mpedro[32m disconnected[39m
+[90m13:49:44[39m[36m   Socket connected from IP: [39m2.139.242.137
+[90m13:49:50[39m[32m   ***  User: [39mMaria[32m  |  Room: [39mmariafrancesita[32m  |  IP: [39m2.139.242.137[32m  ***[39m
+user: Maria pass: mariafrancesita
+Password in text: mariafrancesita
+[90m13:57:44[39m[36m   Socket connected from IP: [39m2.139.242.137
+[90m13:57:47[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.137[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m13:59:13[39m[32m   User [39mMaria[32m disconnected[39m
+[90m13:59:14[39m[36m   Socket connected from IP: [39m2.139.242.137
+[90m13:59:21[39m[32m   ***  User: [39mMaria[32m  |  Room: [39mmariafrancesita[32m  |  IP: [39m2.139.242.137[32m  ***[39m
+user: Maria pass: mariafrancesita
+Password in text: mariafrancesita
+[90m14:06:44[39m[32m   User [39mJairo[32m disconnected[39m
+[90m14:17:22[39m[36m   Socket connected from IP: [39m2.139.242.137
+[90m14:17:27[39m[32m   ***  User: [39mMaria[32m  |  Room: [39mmariafrancesita[32m  |  IP: [39m2.139.242.137[32m  ***[39m
+user: Maria pass: mariafrancesita
+Password in text: mariafrancesita
+[90m14:25:04[39m[36m   Socket connected from IP: [39m2.139.242.137
+[90m14:25:30[39m[32m   ***  User: [39mMaria[32m  |  Room: [39mmariafrancesita[32m  |  IP: [39m2.139.242.137[32m  ***[39m
+user: Maria pass: mariafrancesita
+Password in text: mariafrancesita
+[90m14:25:44[39m[32m   User [39mMaria[32m disconnected[39m
+[90m14:25:44[39m[32m   User [39mMaria[32m disconnected[39m
+[90m14:29:23[39m[32m   User [39mMaria[32m disconnected[39m
+[90m14:29:24[39m[36m   Socket connected from IP: [39m2.139.242.137
+[90m14:29:29[39m[32m   ***  User: [39mMaria[32m  |  Room: [39mmariafrancesita[32m  |  IP: [39m2.139.242.137[32m  ***[39m
+user: Maria pass: mariafrancesita
+Password in text: mariafrancesita
+[90m14:32:13[39m[32m   User [39mMaria[32m disconnected[39m
+[90m14:32:14[39m[36m   Socket connected from IP: [39m2.139.242.137
+[90m14:32:19[39m[32m   ***  User: [39mMaria[32m  |  Room: [39mmariafrancesita[32m  |  IP: [39m2.139.242.137[32m  ***[39m
+user: Maria pass: mariafrancesita
+Password in text: mariafrancesita
+[90m14:36:48[39m[32m   User [39mMaria[32m disconnected[39m
+[90m16:08:42[39m[36m   Socket connected from IP: [39m85.137.118.219
+[90m16:08:49[39m[36m   Socket [39m85.137.118.219[36m disconnected[39m
+[90m20:30:23[39m[36m   Socket connected from IP: [39m185.13.202.221
+[90m20:30:27[39m[32m   ***  User: [39mMaria[32m  |  Room: [39mmariafrancesita[32m  |  IP: [39m185.13.202.221[32m  ***[39m
+user: Maria pass: mariafrancesita
+Password in text: mariafrancesita
+[90m20:32:40[39m[32m   User [39mMaria[32m disconnected[39m
+[90m04:20:04[39m[36m   Socket connected from IP: [39m85.137.146.156
+[90m04:20:05[39m[36m   Socket [39m85.137.146.156[36m disconnected[39m
+warn: client not handshaken client should reconnect
+[90m19:32:49[39m[36m   Socket connected from IP: [39m66.249.79.37
+[90m19:33:49[39m[36m   Socket [39m66.249.79.37[36m disconnected[39m
+[90m09:37:35[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m09:37:41[39m[32m   ***  User: [39mMaria[32m  |  Room: [39mmariafrancesita[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Maria pass: mariafrancesita
+Password in text: mariafrancesita
+[90m09:39:23[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m09:39:33[39m[32m   ***  User: [39mGonz[32m  |  Room: [39m1234[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Gonz pass: 1234
+Password in text: 1234
+[90m09:40:51[39m[32m   User [39mGonz[32m disconnected[39m
+[90m09:42:06[39m[32m   User [39mMaria[32m disconnected[39m
+[90m10:21:40[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m10:22:00[39m[32m   ***  User: [39mMaria[32m  |  Room: [39mmariafrancesita[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Maria pass: mariafrancesita
+Password in text: mariafrancesita
+[90m10:22:27[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m10:22:43[39m[32m   ***  User: [39mhaunser[32m  |  Room: [39ms11aw2014[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: haunser pass: s11aw2014
+Password in text: s11aw2014
+[90m11:12:20[39m[32m   User [39mhaunser[32m disconnected[39m
+[90m11:13:56[39m[32m   User [39mMaria[32m disconnected[39m
+[90m12:05:04[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:05:04[39m[32m   ***  User: [39mCristianMainMoodle.7[32m  |  Room: [39mCC[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+[90m12:05:11[39m[32m   User [39m[32m disconnected[39m
+[90m13:04:34[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m13:04:50[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m13:05:00[39m[32m   ***  User: [39mMaria[32m  |  Room: [39mmariafrancesita[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Maria pass: mariafrancesita
+Password in text: mariafrancesita
+[90m13:05:00[39m[32m   ***  User: [39mAle[32m  |  Room: [39maLE[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Ale pass: aLE
+Password in text: ale
+[90m13:05:04[39m[32m   ***  User: [39mAle[32m  |  Room: [39mALE[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Ale pass: ALE
+Password in text: ale
+[90m13:05:16[39m[32m   ***  User: [39mJhonson[32m  |  Room: [39mjhonson[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+[90m13:05:20[39m[32m   ***  User: [39mJhonson[32m  |  Room: [39mjhonson[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Jhonson pass: jhonson
+Password in text: jhonson
+[90m13:05:50[39m[32m   User [39mMaria[32m disconnected[39m
+[90m13:16:19[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m13:16:22[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+Deleted: chatfinal.zip
+Deleted: chat.zip
+Deleted: min.zip
+Deleted: min
+[90m13:27:49[39m[32m   User [39mJairo[32m disconnected[39m
+[90m13:28:49[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m13:30:28[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m13:31:37[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m13:31:44[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m13:56:47[39m[32m   User [39mJhonson[32m disconnected[39m
+[90m14:34:50[39m[32m   User [39mJairo[32m disconnected[39m
+[90m15:43:25[39m[36m   Socket connected from IP: [39m85.137.118.219
+[90m15:43:52[39m[36m   Socket [39m85.137.118.219[36m disconnected[39m
+[90m09:07:22[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m09:07:54[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m09:47:17[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m09:47:20[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m10:03:49[39m[32m   User [39mJairo[32m disconnected[39m
+[90m10:28:12[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m10:28:14[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m10:28:51[39m[32m   User [39mJairo[32m disconnected[39m
+[90m10:39:01[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m10:39:04[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m10:47:38[39m[32m   User [39mJairo[32m disconnected[39m
+[90m10:49:28[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m10:50:46[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m11:57:15[39m[32m   User [39mJairo[32m disconnected[39m
+[90m12:12:36[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:12:38[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+Deleted: en.zip
+Deleted: img.rar
+Deleted: img.zip
+Deleted: TravianT4-master.zip
+[90m12:13:49[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:13:53[39m[32m   ***  User: [39mMaria[32m  |  Room: [39mmariafrancesita[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Maria pass: mariafrancesita
+Password in text: mariafrancesita
+[90m12:32:21[39m[32m   User [39mJairo[32m disconnected[39m
+[90m12:32:32[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:42:35[39m[32m   User [39mMaria[32m disconnected[39m
+[90m12:49:32[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m12:54:42[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:56:13[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+[90m12:56:21[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m12:56:21[39m[32m   User [39mJairo[32m disconnected[39m
+[90m12:56:23[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:56:56[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+[90m12:57:07[39m[32m   User [39m[32m disconnected[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m13:03:13[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m13:09:39[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+[90m13:09:39[39m[32m   User [39m[32m disconnected[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m13:54:22[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m13:54:22[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m13:54:51[39m[32m   User [39mJairo[32m disconnected[39m
+[90m15:41:08[39m[36m   Socket connected from IP: [39m83.61.115.19
+[90m15:41:11[39m[36m   Socket [39m83.61.115.19[36m disconnected[39m
+warn: client not handshaken client should reconnect
+warn: client not handshaken client should reconnect
+[90m00:14:06[39m[36m   Socket connected from IP: [39m85.137.118.219
+[90m00:14:09[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m85.137.118.219[32m  ***[39m
+[90m00:14:17[39m[32m   User [39m[32m disconnected[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+info: socket.io started
+[35m           SERVER  RUNNING[39m
+          [31md[39m[33me[39m[32mv[39m[34me[39m[35ml[39m[31mo[39m[33mp[39m[32me[39m[34md[39m [31mb[39m[33my[39m [34mA[39m[35ms[39m[31mk[39m[33my[39m
+[90m08:25:10[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m08:25:14[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m08:25:52[39m[32m   User [39mJairo[32m disconnected[39m
+[90m08:34:12[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m08:34:14[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m10:33:03[39m[32m   User [39mJairo[32m disconnected[39m
+[90m11:58:45[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m11:58:51[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m12:01:23[39m[32m   User [39mJairo[32m disconnected[39m
+[90m12:01:28[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:01:53[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m12:02:01[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:03:34[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m12:30:02[39m[32m   User [39mJairo[32m disconnected[39m
+[90m13:29:11[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m13:29:55[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m13:56:57[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m13:57:16[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m13:57:49[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m13:58:37[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m14:15:51[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m14:15:55[39m[32m   ***  User: [39mMaria[32m  |  Room: [39mmariafrancesita[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Maria pass: mariafrancesita
+Password in text: mariafrancesita
+[90m14:16:41[39m[32m   User [39mMaria[32m disconnected[39m
+[90m14:16:43[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m14:16:47[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m14:18:01[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m14:18:08[39m[32m   ***  User: [39mMaria[32m  |  Room: [39mmariafrancesita[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Maria pass: mariafrancesita
+Password in text: mariafrancesita
+[90m14:18:39[39m[32m   User [39mMaria[32m disconnected[39m
+[90m08:47:26[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m08:48:36[39m[32m   ***  User: [39mAlejandro[32m  |  Room: [39mAlejandro[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+[90m08:48:37[39m[32m   ***  User: [39mAlejandro[32m  |  Room: [39mAlejandro[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Alejandro pass: Alejandro
+Password in text: Alejandro
+[90m09:04:01[39m[32m   User [39mAlejandro[32m disconnected[39m
+[90m09:11:41[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m09:11:51[39m[32m   ***  User: [39mAlejandro[32m  |  Room: [39mAlejandro[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Alejandro pass: Alejandro
+Password in text: Alejandro
+[90m09:11:53[39m[32m   ***  User: [39mAlejandro[32m  |  Room: [39mAlejandro[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Alejandro pass: Alejandro
+Password in text: Alejandro
+[90m09:11:56[39m[32m   ***  User: [39mAlejandro[32m  |  Room: [39mAlejandro[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Alejandro pass: Alejandro
+Password in text: Alejandro
+[90m09:11:56[39m[32m   ***  User: [39mAlejandro[32m  |  Room: [39mAlejandro[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Alejandro pass: Alejandro
+Password in text: Alejandro
+[90m09:11:56[39m[32m   ***  User: [39mAlejandro[32m  |  Room: [39mAlejandro[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Alejandro pass: Alejandro
+Password in text: Alejandro
+[90m09:11:56[39m[32m   ***  User: [39mAlejandro[32m  |  Room: [39mAlejandro[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Alejandro pass: Alejandro
+Password in text: Alejandro
+[90m09:11:56[39m[32m   ***  User: [39mAlejandro[32m  |  Room: [39mAlejandro[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Alejandro pass: Alejandro
+Password in text: Alejandro
+[90m09:11:57[39m[32m   ***  User: [39mAlejandro[32m  |  Room: [39mAlejandro[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Alejandro pass: Alejandro
+Password in text: Alejandro
+[90m09:11:57[39m[32m   ***  User: [39mAlejandro[32m  |  Room: [39mAlejandro[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Alejandro pass: Alejandro
+Password in text: Alejandro
+[90m09:11:57[39m[32m   ***  User: [39mAlejandro[32m  |  Room: [39mAlejandro[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Alejandro pass: Alejandro
+Password in text: Alejandro
+[90m09:11:57[39m[32m   ***  User: [39mAlejandro[32m  |  Room: [39mAlejandro[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Alejandro pass: Alejandro
+Password in text: Alejandro
+[90m09:11:58[39m[32m   ***  User: [39mAlejandro[32m  |  Room: [39mAlejandro[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Alejandro pass: Alejandro
+Password in text: Alejandro
+[90m09:11:58[39m[32m   ***  User: [39mAlejandro[32m  |  Room: [39mAlejandro[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Alejandro pass: Alejandro
+Password in text: Alejandro
+[90m09:11:58[39m[32m   ***  User: [39mAlejandro[32m  |  Room: [39mAlejandro[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Alejandro pass: Alejandro
+Password in text: Alejandro
+[90m09:11:58[39m[32m   ***  User: [39mAlejandro[32m  |  Room: [39mAlejandro[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Alejandro pass: Alejandro
+Password in text: Alejandro
+[90m09:11:59[39m[32m   ***  User: [39mAlejandro[32m  |  Room: [39mAlejandro[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Alejandro pass: Alejandro
+Password in text: Alejandro
+[90m09:11:59[39m[32m   ***  User: [39mAlejandro[32m  |  Room: [39mAlejandro[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Alejandro pass: Alejandro
+Password in text: Alejandro
+[90m09:11:59[39m[32m   ***  User: [39mAlejandro[32m  |  Room: [39mAlejandro[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Alejandro pass: Alejandro
+Password in text: Alejandro
+[90m09:11:59[39m[32m   ***  User: [39mAlejandro[32m  |  Room: [39mAlejandro[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Alejandro pass: Alejandro
+Password in text: Alejandro
+[90m09:17:42[39m[32m   User [39mAlejandro[32m disconnected[39m
+[90m09:50:16[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m09:50:17[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m11:52:24[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m11:52:24[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m12:37:52[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:37:56[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+info: socket.io started
+[35m           SERVER  RUNNING[39m
+          [31md[39m[33me[39m[32mv[39m[34me[39m[35ml[39m[31mo[39m[33mp[39m[32me[39m[34md[39m [31mb[39m[33my[39m [34mA[39m[35ms[39m[31mk[39m[33my[39m
+[90m09:45:00[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m09:45:03[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m09:53:05[39m[32m   User [39mJairo[32m disconnected[39m
+[90m10:23:38[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m10:24:10[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m10:24:15[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m10:24:25[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m10:24:26[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m10:24:37[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m10:24:38[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m10:24:39[39m[32m   ***  User: [39mqwe[32m  |  Room: [39mqwe[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: qwe pass: qwe
+Password in text: qwe
+[90m10:24:39[39m[32m   ***  User: [39mpedro[32m  |  Room: [39mpedro1212[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: pedro pass: pedro1212
+Password in text: pedro1212
+[90m10:24:40[39m[32m   ***  User: [39mMaria[32m  |  Room: [39mmariafrancesita[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Maria pass: mariafrancesita
+Password in text: mariafrancesita
+[90m10:24:42[39m[32m   User [39mqwe[32m disconnected[39m
+[90m10:24:43[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m10:25:53[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m10:26:27[39m[32m   ***  User: [39mAlejandro[32m  |  Room: [39mAlejandro[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+[90m10:26:28[39m[32m   User [39mJairo[32m disconnected[39m
+[90m10:26:28[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m10:26:29[39m[32m   ***  User: [39mAlejandro[32m  |  Room: [39mAlejandro[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Alejandro pass: Alejandro
+Password in text: Alejandro
+[90m10:26:41[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m10:27:11[39m[32m   User [39mpedro[32m disconnected[39m
+[90m10:27:32[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m10:27:35[39m[32m   ***  User: [39mcr7[32m  |  Room: [39m1234[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+[90m10:27:36[39m[32m   ***  User: [39mcr7[32m  |  Room: [39m1234[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: cr7 pass: 1234
+Password in text: 1234
+[90m10:29:21[39m[32m   User [39mAlejandro[32m disconnected[39m
+[90m10:29:27[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m10:37:15[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m10:37:16[39m[32m   ***  User: [39mpedro[32m  |  Room: [39mpedro1212[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: pedro pass: pedro1212
+Password in text: pedro1212
+[90m10:37:16[39m[32m   ***  User: [39mpedro[32m  |  Room: [39mpedro1212[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: pedro pass: pedro1212
+Password in text: pedro1212
+[90m10:38:09[39m[32m   User [39mcr7[32m disconnected[39m
+[90m10:38:16[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m10:38:20[39m[32m   ***  User: [39mcr7[32m  |  Room: [39m1234[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: cr7 pass: 1234
+Password in text: 1234
+[90m10:42:03[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m10:42:04[39m[32m   ***  User: [39mlll[32m  |  Room: [39mlll[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: lll pass: lll
+Password in text: lll
+[90m10:42:12[39m[32m   User [39mcr7[32m disconnected[39m
+[90m10:42:59[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m10:43:04[39m[32m   ***  User: [39mcr7[32m  |  Room: [39m1234[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: cr7 pass: 1234
+Password in text: 1234
+[90m10:46:57[39m[32m   User [39mlll[32m disconnected[39m
+[90m11:00:33[39m[32m   User [39mpedro[32m disconnected[39m
+[90m11:01:24[39m[32m   User [39mMaria[32m disconnected[39m
+[90m11:05:07[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m11:05:10[39m[32m   ***  User: [39mlll[32m  |  Room: [39mlll[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: lll pass: lll
+Password in text: lll
+[90m11:07:02[39m[32m   User [39mcr7[32m disconnected[39m
+[90m11:14:28[39m[32m   User [39mJairo[32m disconnected[39m
+[90m11:14:36[39m[32m   User [39mlll[32m disconnected[39m
+[90m13:19:50[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m13:19:53[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m13:20:10[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m13:21:22[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m13:25:08[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m14:13:04[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m14:37:57[39m[36m   Socket connected from IP: [39m83.32.163.117
+[90m14:41:51[39m[36m   Socket [39m83.32.163.117[36m disconnected[39m
+[90m05:26:06[39m[36m   Socket connected from IP: [39m95.18.133.161
+[90m05:26:17[39m[32m   ***  User: [39msiger[32m  |  Room: [39mhello[32m  |  IP: [39m95.18.133.161[32m  ***[39m
+user: siger pass: hello
+Password in text: 123456789
+[90m05:26:22[39m[32m   ***  User: [39msiger[32m  |  Room: [39m123456789[32m  |  IP: [39m95.18.133.161[32m  ***[39m
+user: siger pass: 123456789
+Password in text: 123456789
+[90m05:26:32[39m[32m   User [39msiger[32m disconnected[39m
+[90m23:36:36[39m[36m   Socket connected from IP: [39m85.137.118.219
+[90m23:36:50[39m[36m   Socket [39m85.137.118.219[36m disconnected[39m
+[90m10:15:49[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m10:16:01[39m[32m   ***  User: [39mMaria[32m  |  Room: [39mmariafrancesita[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Maria pass: mariafrancesita
+Password in text: mariafrancesita
+[90m10:16:22[39m[32m   User [39mMaria[32m disconnected[39m
+[90m20:01:10[39m[36m   Socket connected from IP: [39m95.20.134.222
+[90m20:01:18[39m[32m   ***  User: [39m1234[32m  |  Room: [39m1234[32m  |  IP: [39m95.20.134.222[32m  ***[39m
+user: 1234 pass: 1234
+Password in text: 1234
+[90m20:11:19[39m[32m   User [39m1234[32m disconnected[39m
+[90m09:06:47[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m09:06:53[39m[32m   ***  User: [39mMaria[32m  |  Room: [39mmariafrancesita[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Maria pass: mariafrancesita
+Password in text: mariafrancesita
+[90m09:07:21[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m09:07:29[39m[32m   ***  User: [39m1234[32m  |  Room: [39m1234[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: 1234 pass: 1234
+Password in text: 1234
+[90m09:11:12[39m[32m   User [39m1234[32m disconnected[39m
+[90m09:22:46[39m[32m   User [39mMaria[32m disconnected[39m
+[90m09:22:47[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m09:22:57[39m[32m   ***  User: [39mMaria[32m  |  Room: [39mmariafrancesita[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Maria pass: mariafrancesita
+Password in text: mariafrancesita
+Deleted: MariaCardenas_SALVADOS.docx
+Deleted: MariaCardenas_SALVADOS.docx
+[90m09:24:07[39m[32m   User [39mMaria[32m disconnected[39m
+[90m21:48:51[39m[36m   Socket connected from IP: [39m85.137.118.219
+[90m21:48:54[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m85.137.118.219[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m21:50:17[39m[32m   User [39mJairo[32m disconnected[39m
+[90m09:12:40[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m09:12:44[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m09:18:36[39m[32m   User [39mJairo[32m disconnected[39m
+[90m09:25:00[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m09:25:04[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m09:53:40[39m[36m   Socket connected from IP: [39m65.49.14.162
+[90m09:53:42[39m[32m   ***  User: [39m1234[32m  |  Room: [39m1234[32m  |  IP: [39m65.49.14.162[32m  ***[39m
+user: 1234 pass: 1234
+Password in text: 1234
+[90m09:53:57[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m09:53:58[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m09:53:59[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m09:54:05[39m[32m   ***  User: [39m1234[32m  |  Room: [39m1234[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: 1234 pass: 1234
+Password in text: 1234
+[90m09:54:47[39m[32m   User [39m1234[32m disconnected[39m
+[90m10:28:38[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m10:28:59[39m[32m   ***  User: [39mlll[32m  |  Room: [39mlll[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: lll pass: lll
+Password in text: lll
+[90m10:31:30[39m[32m   User [39mlll[32m disconnected[39m
+[90m10:31:30[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m10:32:30[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m10:33:21[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m10:33:24[39m[32m   ***  User: [39mlll[32m  |  Room: [39mlll[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: lll pass: lll
+Password in text: lll
+[90m10:38:40[39m[32m   User [39mlll[32m disconnected[39m
+[90m10:46:59[39m[32m   User [39m1234[32m disconnected[39m
+[90m10:58:58[39m[32m   User [39mJairo[32m disconnected[39m
+[90m10:59:06[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m10:59:09[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m11:11:43[39m[32m   User [39mJairo[32m disconnected[39m
+[90m12:18:24[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:18:29[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m12:25:00[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:25:03[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m12:25:05[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:26:05[39m[32m   User [39mJairo[32m disconnected[39m
+[90m12:28:55[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:29:16[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m12:29:55[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:30:21[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m12:34:34[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:34:45[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m12:37:40[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m12:37:49[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:38:44[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m12:38:51[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:40:41[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+Deleted: 
+
+fs.js:554
+  return binding.rename(pathModule._makeLong(oldPath),
+                 ^
+Error: ENOENT, no such file or directory '/home/ftp/Chat+Ace/public/uploaded/tmp/8d631e4da8e8f9de49f8dfc8e4a3d0d4'
+    at Object.fs.renameSync (fs.js:554:18)
+    at IncomingForm.<anonymous> (/home/ftp/Chat+Ace/node_modules/blueimp-file-upload-expressjs/index.js:292:12)
+    at IncomingForm.emit (events.js:98:17)
+    at /home/ftp/Chat+Ace/node_modules/blueimp-file-upload-expressjs/node_modules/formidable/lib/incoming_form.js:228:12
+    at WriteStream.<anonymous> (/home/ftp/Chat+Ace/node_modules/blueimp-file-upload-expressjs/node_modules/formidable/lib/file.js:70:5)
+    at WriteStream.g (events.js:180:16)
+    at WriteStream.emit (events.js:117:20)
+    at finishMaybe (_stream_writable.js:359:12)
+    at afterWrite (_stream_writable.js:279:5)
+    at onwrite (_stream_writable.js:269:7)
+info: socket.io started
+[35m           SERVER  RUNNING[39m
+          [31md[39m[33me[39m[32mv[39m[34me[39m[35ml[39m[31mo[39m[33mp[39m[32me[39m[34md[39m [31mb[39m[33my[39m [34mA[39m[35ms[39m[31mk[39m[33my[39m
+[90m12:46:18[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:46:24[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m12:49:37[39m[32m   User [39mJairo[32m disconnected[39m
+[90m19:08:21[39m[36m   Socket connected from IP: [39m95.20.133.114
+[90m19:08:33[39m[32m   ***  User: [39m1234[32m  |  Room: [39m1234[32m  |  IP: [39m95.20.133.114[32m  ***[39m
+user: 1234 pass: 1234
+Password in text: 1234
+[90m19:29:07[39m[32m   User [39m1234[32m disconnected[39m
+[90m11:08:31[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m11:08:34[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m11:14:48[39m[32m   User [39mJairo[32m disconnected[39m
+[90m11:56:04[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m11:56:13[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m12:32:11[39m[32m   User [39mJairo[32m disconnected[39m
+[90m12:32:15[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:32:18[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m12:37:25[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:37:31[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m12:48:12[39m[32m   User [39mJairo[32m disconnected[39m
+[90m12:48:13[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:48:20[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m12:48:23[39m[32m   User [39mJairo[32m disconnected[39m
+[90m12:52:47[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m13:02:25[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m13:02:28[39m[32m   User [39mJairo[32m disconnected[39m
+[90m13:02:29[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m13:02:36[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m14:13:26[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m14:13:32[39m[32m   ***  User: [39m1234[32m  |  Room: [39m1234[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: 1234 pass: 1234
+Password in text: 1234
+[90m14:20:18[39m[32m   User [39m1234[32m disconnected[39m
+[90m14:37:51[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m14:37:55[39m[32m   ***  User: [39m1234[32m  |  Room: [39m1234[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: 1234 pass: 1234
+Password in text: 1234
+[90m14:44:27[39m[32m   User [39m1234[32m disconnected[39m
+[90m09:07:41[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m09:07:46[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m09:07:52[39m[32m   ***  User: [39mMaria[32m  |  Room: [39mmariafrancesita[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Maria pass: mariafrancesita
+Password in text: mariafrancesita
+[90m09:07:58[39m[32m   ***  User: [39m1234[32m  |  Room: [39m1234[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: 1234 pass: 1234
+Password in text: 1234
+[90m09:10:51[39m[32m   User [39mMaria[32m disconnected[39m
+[90m09:21:07[39m[32m   User [39m1234[32m disconnected[39m
+[90m09:40:39[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m09:40:44[39m[32m   ***  User: [39mpedro[32m  |  Room: [39mpedro1212[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: pedro pass: pedro1212
+Password in text: pedro1212
+[90m09:41:15[39m[32m   User [39mpedro[32m disconnected[39m
+[90m09:43:38[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m09:43:44[39m[32m   ***  User: [39m12341234[32m  |  Room: [39m1234[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+[90m09:43:46[39m[32m   ***  User: [39m12341234[32m  |  Room: [39m1234[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: 12341234 pass: 1234
+Password in text: 1234
+[90m09:53:19[39m[32m   User [39m12341234[32m disconnected[39m
+[90m10:09:44[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m10:09:44[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m10:36:45[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m10:39:17[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m10:39:19[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m10:39:23[39m[32m   ***  User: [39m1234[32m  |  Room: [39m1234[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: 1234 pass: 1234
+Password in text: 1234
+[90m10:48:42[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m10:48:48[39m[32m   ***  User: [39mMaria[32m  |  Room: [39mmariafrancesita[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Maria pass: mariafrancesita
+Password in text: mariafrancesita
+[90m10:50:16[39m[32m   User [39mMaria[32m disconnected[39m
+[90m10:50:17[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m10:50:24[39m[32m   ***  User: [39mMaria[32m  |  Room: [39mmariafrancesita[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Maria pass: mariafrancesita
+Password in text: mariafrancesita
+[90m10:51:57[39m[32m   User [39mMaria[32m disconnected[39m
+[90m10:51:58[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m10:52:01[39m[32m   ***  User: [39mMaria[32m  |  Room: [39mmariafrancesita[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Maria pass: mariafrancesita
+Password in text: mariafrancesita
+[90m10:56:56[39m[32m   User [39mMaria[32m disconnected[39m
+[90m10:56:59[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m10:57:02[39m[32m   ***  User: [39mMaria[32m  |  Room: [39mmariafrancesita[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Maria pass: mariafrancesita
+Password in text: mariafrancesita
+[90m11:01:04[39m[32m   User [39mMaria[32m disconnected[39m
+[90m11:01:06[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m11:01:09[39m[32m   ***  User: [39mMaria[32m  |  Room: [39mmariafrancesita[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Maria pass: mariafrancesita
+Password in text: mariafrancesita
+[90m11:03:32[39m[32m   User [39mMaria[32m disconnected[39m
+[90m11:03:34[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m11:07:02[39m[32m   User [39m1234[32m disconnected[39m
+[90m11:11:33[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m11:59:50[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m11:59:52[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m12:00:02[39m[32m   User [39mJairo[32m disconnected[39m
+[90m12:22:54[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:22:57[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+Deleted: bg.png
+[90m12:23:22[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:23:22[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m12:34:50[39m[32m   User [39mJairo[32m disconnected[39m
+[90m12:34:52[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:34:57[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m12:38:09[39m[32m   User [39mJairo[32m disconnected[39m
+[90m12:38:11[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:38:18[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m12:38:24[39m[32m   User [39mJairo[32m disconnected[39m
+[90m12:38:27[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:38:29[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m12:41:35[39m[32m   User [39mJairo[32m disconnected[39m
+[90m12:41:38[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:41:40[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m12:41:57[39m[32m   User [39mJairo[32m disconnected[39m
+[90m12:42:02[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:42:04[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m13:02:17[39m[32m   User [39mJairo[32m disconnected[39m
+[90m13:02:52[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m13:02:54[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m13:03:54[39m[32m   User [39mJairo[32m disconnected[39m
+[90m13:03:56[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m13:03:58[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m13:04:03[39m[32m   User [39mJairo[32m disconnected[39m
+[90m13:04:07[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m13:04:10[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m13:05:00[39m[32m   User [39mJairo[32m disconnected[39m
+[90m13:05:07[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m13:05:11[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m13:05:14[39m[32m   User [39mJairo[32m disconnected[39m
+[90m13:05:19[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m13:05:21[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m13:05:59[39m[32m   User [39mJairo[32m disconnected[39m
+[90m13:06:03[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m13:06:06[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m13:06:14[39m[32m   User [39mJairo[32m disconnected[39m
+[90m13:06:34[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m13:07:17[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m13:07:17[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m13:07:52[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m13:07:55[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m13:08:05[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+Deleted: qwe%20(1).jpg
+[90m13:08:50[39m[32m   User [39mJairo[32m disconnected[39m
+Deleted: qwe 20(1).jpg
+Deleted: qwe (1).jpg
+Deleted: qwe.jpg
+[90m13:10:26[39m[32m   User [39mJairo[32m disconnected[39m
+[90m13:10:28[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m13:10:31[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m13:10:36[39m[32m   User [39mJairo[32m disconnected[39m
+[90m13:10:48[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m13:10:55[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m13:13:50[39m[32m   User [39mJairo[32m disconnected[39m
+[90m13:13:57[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m13:14:06[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m13:14:12[39m[32m   User [39mJairo[32m disconnected[39m
+[90m13:15:16[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m13:15:16[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m13:16:26[39m[32m   User [39mJairo[32m disconnected[39m
+[90m21:02:45[39m[36m   Socket connected from IP: [39m176.86.145.157
+[90m21:03:27[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m176.86.145.157[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m21:05:31[39m[32m   User [39mJairo[32m disconnected[39m
+[90m00:20:16[39m[36m   Socket connected from IP: [39m85.137.118.219
+[90m00:20:19[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m85.137.118.219[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m00:22:10[39m[36m   Socket connected from IP: [39m176.86.145.157
+[90m00:22:18[39m[32m   ***  User: [39mRido[32m  |  Room: [39mRidote[32m  |  IP: [39m176.86.145.157[32m  ***[39m
+[90m00:22:24[39m[32m   ***  User: [39mRido[32m  |  Room: [39mRidote[32m  |  IP: [39m176.86.145.157[32m  ***[39m
+user: Rido pass: Ridote
+Password in text: Ridote
+[90m00:23:13[39m[32m   User [39mRido[32m disconnected[39m
+[90m00:23:41[39m[32m   User [39mJairo[32m disconnected[39m
+warn: client not handshaken client should reconnect
+[90m14:01:39[39m[36m   Socket connected from IP: [39m66.249.79.46
+[90m14:02:39[39m[36m   Socket [39m66.249.79.46[36m disconnected[39m
+[90m16:42:20[39m[36m   Socket connected from IP: [39m85.137.118.219
+[90m16:42:26[39m[32m   ***  User: [39mqwe[32m  |  Room: [39mqwe[32m  |  IP: [39m85.137.118.219[32m  ***[39m
+user: qwe pass: qwe
+Password in text: qwe
+[90m16:42:32[39m[32m   User [39mqwe[32m disconnected[39m
+[90m19:09:40[39m[36m   Socket connected from IP: [39m66.249.93.184
+[90m19:11:25[39m[36m   Socket [39m66.249.93.184[36m disconnected[39m
+[90m12:17:54[39m[36m   Socket connected from IP: [39m85.137.118.219
+[90m12:17:57[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m85.137.118.219[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+Deleted: 2.jpg
+Deleted: 2.jpg
+Deleted: 2.jpg
+[90m12:20:45[39m[32m   User [39mJairo[32m disconnected[39m
+[90m13:21:31[39m[36m   Socket connected from IP: [39m85.137.118.219
+[90m13:21:33[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m85.137.118.219[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m13:21:44[39m[32m   User [39mJairo[32m disconnected[39m
+[90m17:13:46[39m[36m   Socket connected from IP: [39m85.137.118.219
+[90m17:13:50[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m85.137.118.219[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m17:13:54[39m[32m   User [39mJairo[32m disconnected[39m
+[90m22:08:18[39m[36m   Socket connected from IP: [39m85.137.118.219
+[90m22:08:32[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m85.137.118.219[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m22:10:47[39m[32m   User [39mJairo[32m disconnected[39m
+[90m00:18:23[39m[36m   Socket connected from IP: [39m85.137.118.219
+[90m00:18:34[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m85.137.118.219[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m00:18:49[39m[32m   User [39mJairo[32m disconnected[39m
+[90m14:47:07[39m[36m   Socket connected from IP: [39m85.137.118.219
+[90m14:47:26[39m[36m   Socket [39m85.137.118.219[36m disconnected[39m
+[90m14:48:37[39m[36m   Socket connected from IP: [39m85.137.118.219
+[90m14:48:41[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m85.137.118.219[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m14:49:10[39m[32m   User [39mJairo[32m disconnected[39m
+[90m09:08:38[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m09:08:41[39m[32m   ***  User: [39m1234[32m  |  Room: [39m1234[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: 1234 pass: 1234
+Password in text: 1234
+[90m09:08:52[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m09:09:00[39m[32m   ***  User: [39mMaria[32m  |  Room: [39mmariafrancesita[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Maria pass: mariafrancesita
+Password in text: mariafrancesita
+[90m09:09:48[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m09:09:50[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m09:45:56[39m[32m   User [39m1234[32m disconnected[39m
+[90m10:05:49[39m[32m   User [39mMaria[32m disconnected[39m
+[90m11:56:54[39m[36m   Socket connected from IP: [39m66.249.78.48
+[90m11:57:54[39m[36m   Socket [39m66.249.78.48[36m disconnected[39m
+[90m12:25:25[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:25:28[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m12:28:10[39m[32m   User [39mJairo[32m disconnected[39m
+[90m12:39:54[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:39:58[39m[32m   ***  User: [39mMaria[32m  |  Room: [39mmariafrancesita[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Maria pass: mariafrancesita
+Password in text: mariafrancesita
+[90m12:40:06[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:40:12[39m[32m   ***  User: [39m1234[32m  |  Room: [39m1234[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: 1234 pass: 1234
+Password in text: 1234
+[90m12:46:08[39m[32m   User [39m1234[32m disconnected[39m
+[90m12:53:11[39m[32m   User [39mMaria[32m disconnected[39m
+[90m12:53:11[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:53:19[39m[32m   ***  User: [39mMaria[32m  |  Room: [39mmariafrancesita[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Maria pass: mariafrancesita
+Password in text: mariafrancesita
+[90m12:54:27[39m[32m   User [39mMaria[32m disconnected[39m
+[90m12:58:21[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:58:25[39m[32m   ***  User: [39m1234[32m  |  Room: [39m1234[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: 1234 pass: 1234
+Password in text: 1234
+[90m13:00:25[39m[32m   User [39m1234[32m disconnected[39m
+[90m13:15:26[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m13:15:35[39m[32m   ***  User: [39m1234[32m  |  Room: [39m1234[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: 1234 pass: 1234
+Password in text: 1234
+[90m13:15:49[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m13:15:49[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m13:15:51[39m[32m   ***  User: [39mlll[32m  |  Room: [39mlll[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: lll pass: lll
+Password in text: lll
+[90m13:15:58[39m[32m   ***  User: [39mCristianMain[32m  |  Room: [39mCristianMain[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: CristianMain pass: CristianMain
+Password in text: CristianMain
+[90m13:17:06[39m[32m   User [39mCristianMain[32m disconnected[39m
+[90m13:21:31[39m[32m   User [39m1234[32m disconnected[39m
+[90m13:23:26[39m[32m   User [39mlll[32m disconnected[39m
+[90m10:17:59[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m10:18:00[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m11:58:59[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:02:06[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m12:15:59[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:16:03[39m[32m   ***  User: [39m1234[32m  |  Room: [39m1234[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: 1234 pass: 1234
+Password in text: 1234
+[90m12:17:41[39m[36m   Socket connected from IP: [39m65.49.14.83
+[90m12:17:44[39m[32m   ***  User: [39mAle[32m  |  Room: [39mAle[32m  |  IP: [39m65.49.14.83[32m  ***[39m
+user: Ale pass: Ale
+Password in text: ale
+[90m12:17:48[39m[32m   ***  User: [39mAle[32m  |  Room: [39male[32m  |  IP: [39m65.49.14.83[32m  ***[39m
+user: Ale pass: ale
+Password in text: ale
+[90m12:19:05[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:19:11[39m[32m   ***  User: [39mMaria[32m  |  Room: [39mmariafrancesita[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Maria pass: mariafrancesita
+Password in text: mariafrancesita
+[90m12:20:41[39m[32m   User [39mMaria[32m disconnected[39m
+[90m12:20:42[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:20:47[39m[32m   ***  User: [39mMaria[32m  |  Room: [39mmariafrancesita[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Maria pass: mariafrancesita
+Password in text: mariafrancesita
+[90m12:28:42[39m[32m   User [39m1234[32m disconnected[39m
+[90m12:29:09[39m[32m   User [39mMaria[32m disconnected[39m
+[90m12:32:47[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:32:48[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m12:32:49[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:33:31[39m[32m   User [39mAle[32m disconnected[39m
+[90m12:52:16[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m21:09:34[39m[36m   Socket connected from IP: [39m85.137.118.219
+[90m21:09:38[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m85.137.118.219[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m21:09:42[39m[32m   User [39mJairo[32m disconnected[39m
+[90m08:18:46[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m08:18:49[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m12:19:37[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:20:16[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m09:02:01[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m09:02:05[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m09:04:21[39m[32m   User [39mJairo[32m disconnected[39m
+[90m09:04:25[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m09:04:29[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m09:12:31[39m[32m   User [39mJairo[32m disconnected[39m
+[90m09:30:23[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m09:30:27[39m[32m   ***  User: [39m1234[32m  |  Room: [39m1234[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: 1234 pass: 1234
+Password in text: 1234
+[90m09:30:28[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m09:30:33[39m[32m   ***  User: [39mMaria[32m  |  Room: [39mmariafrancesita[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Maria pass: mariafrancesita
+Password in text: mariafrancesita
+[90m09:30:48[39m[32m   User [39m1234[32m disconnected[39m
+[90m09:31:10[39m[32m   User [39mMaria[32m disconnected[39m
+[90m09:41:35[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m09:41:46[39m[32m   ***  User: [39mAle[32m  |  Room: [39male[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Ale pass: ale
+Password in text: ale
+[90m09:44:49[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m09:44:53[39m[32m   ***  User: [39m1234[32m  |  Room: [39m1234[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: 1234 pass: 1234
+Password in text: 1234
+[90m10:03:55[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m10:03:58[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m10:13:39[39m[32m   User [39mJairo[32m disconnected[39m
+[90m10:18:07[39m[32m   User [39mAle[32m disconnected[39m
+[90m10:25:32[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m10:50:06[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m10:50:09[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m11:00:13[39m[32m   User [39mJairo[32m disconnected[39m
+[90m11:15:02[39m[32m   User [39m1234[32m disconnected[39m
+[90m11:16:19[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m11:49:07[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m11:49:11[39m[32m   ***  User: [39m1234[32m  |  Room: [39m1234[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: 1234 pass: 1234
+Password in text: 1234
+[90m11:49:43[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m11:49:44[39m[32m   ***  User: [39mpedro[32m  |  Room: [39mpedro1212[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: pedro pass: pedro1212
+Password in text: pedro1212
+[90m11:50:33[39m[32m   User [39mpedro[32m disconnected[39m
+[90m11:52:14[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m11:53:05[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m11:58:12[39m[32m   User [39m1234[32m disconnected[39m
+[90m12:05:17[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:05:21[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m12:05:42[39m[32m   User [39mJairo[32m disconnected[39m
+[90m12:14:22[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:14:25[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m12:14:35[39m[32m   User [39mJairo[32m disconnected[39m
+[90m12:14:38[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:14:40[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m12:17:52[39m[32m   User [39mJairo[32m disconnected[39m
+[90m12:17:56[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:18:42[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m12:19:04[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:19:16[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m12:19:19[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:19:35[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m12:19:46[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:20:51[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m12:20:56[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:20:59[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m12:24:27[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:30:02[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m12:30:09[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:30:52[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m12:31:42[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:31:52[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m12:34:24[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:35:49[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m12:36:21[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:37:01[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m12:37:24[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:37:33[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m12:37:45[39m[32m   User [39mJairo[32m disconnected[39m
+[90m12:38:32[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:38:35[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+Deleted: juego.zip
+[90m12:51:38[39m[32m   User [39mJairo[32m disconnected[39m
+[90m12:54:11[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:55:32[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m13:10:35[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m13:10:50[39m[32m   ***  User: [39mcarlos[32m  |  Room: [39m1234[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+[90m13:10:52[39m[32m   ***  User: [39mcarlos[32m  |  Room: [39m1234[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: carlos pass: 1234
+Password in text: 1234
+[90m13:16:06[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m13:16:13[39m[32m   ***  User: [39m1234[32m  |  Room: [39m1234[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: 1234 pass: 1234
+Password in text: 1234
+[90m13:18:17[39m[32m   User [39mcarlos[32m disconnected[39m
+[90m13:32:12[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m13:32:17[39m[32m   ***  User: [39mcarlos[32m  |  Room: [39m1234[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: carlos pass: 1234
+Password in text: 1234
+[90m13:32:17[39m[32m   User [39mcarlos[32m disconnected[39m
+[90m13:32:20[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m13:32:20[39m[32m   ***  User: [39mcarlos[32m  |  Room: [39m1234[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: carlos pass: 1234
+Password in text: 1234
+[90m13:46:42[39m[32m   User [39mcarlos[32m disconnected[39m
+[90m13:51:05[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m13:56:17[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m14:07:03[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m14:07:37[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m14:07:38[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m14:08:43[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m14:08:45[39m[32m   ***  User: [39mAle[32m  |  Room: [39male[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Ale pass: ale
+Password in text: ale
+[90m14:35:48[39m[32m   User [39m1234[32m disconnected[39m
+[90m14:38:48[39m[32m   User [39mAle[32m disconnected[39m
+[90m14:38:54[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+warn: client not handshaken client should reconnect
+warn: client not handshaken client should reconnect
+[90m14:42:44[39m[36m   Socket connected from IP: [39m66.249.79.46
+[90m14:43:44[39m[36m   Socket [39m66.249.79.46[36m disconnected[39m
+[90m20:13:45[39m[36m   Socket connected from IP: [39m85.137.118.219
+[90m20:13:54[39m[36m   Socket [39m85.137.118.219[36m disconnected[39m
+[90m09:57:54[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m09:57:57[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m10:15:22[39m[32m   User [39mJairo[32m disconnected[39m
+[90m10:17:44[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m10:17:44[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m11:03:01[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m11:03:04[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m11:03:11[39m[32m   User [39mJairo[32m disconnected[39m
+[90m12:56:17[39m[36m   Socket connected from IP: [39m65.49.14.164
+[90m12:56:33[39m[32m   ***  User: [39myonki2048[32m  |  Room: [39m1234[32m  |  IP: [39m65.49.14.164[32m  ***[39m
+user: yonki2048 pass: 1234
+Password in text: 1234
+[90m12:56:49[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:56:49[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:56:53[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:56:55[39m[32m   ***  User: [39mpedro[32m  |  Room: [39mpedro1212[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: pedro pass: pedro1212
+Password in text: pedro1212
+[90m12:57:06[39m[32m   ***  User: [39mMaria[32m  |  Room: [39mmariafrancesita[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Maria pass: mariafrancesita
+Password in text: mariafrancesita
+[90m12:57:08[39m[32m   ***  User: [39mCristianMain[32m  |  Room: [39mCristianMain[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: CristianMain pass: CristianMain
+Password in text: CristianMain
+[90m12:58:30[39m[32m   User [39myonki2048[32m disconnected[39m
+[90m12:58:34[39m[36m   Socket connected from IP: [39m65.49.14.167
+[90m12:58:40[39m[32m   ***  User: [39myonki2048[32m  |  Room: [39m1234[32m  |  IP: [39m65.49.14.167[32m  ***[39m
+user: yonki2048 pass: 1234
+Password in text: 1234
+[90m13:00:09[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m13:00:10[39m[32m   ***  User: [39m1234[32m  |  Room: [39m1234[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: 1234 pass: 1234
+Password in text: 1234
+[90m13:06:46[39m[32m   User [39m1234[32m disconnected[39m
+[90m13:08:01[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m13:08:04[39m[32m   ***  User: [39m1234[32m  |  Room: [39m1234[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: 1234 pass: 1234
+Password in text: 1234
+[90m13:15:45[39m[32m   User [39myonki2048[32m disconnected[39m
+[90m13:22:38[39m[32m   User [39m1234[32m disconnected[39m
+[90m13:26:55[39m[32m   User [39mCristianMain[32m disconnected[39m
+[90m13:28:40[39m[32m   User [39mpedro[32m disconnected[39m
+[90m14:38:53[39m[32m   User [39mMaria[32m disconnected[39m
+warn: client not handshaken client should reconnect
+warn: client not handshaken client should reconnect
+[90m10:50:26[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m10:50:30[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m10:50:54[39m[32m   User [39mJairo[32m disconnected[39m
+[90m11:03:03[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m11:03:08[39m[32m   ***  User: [39m1234[32m  |  Room: [39m1234[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: 1234 pass: 1234
+Password in text: 1234
+[90m11:05:54[39m[32m   User [39m1234[32m disconnected[39m
+[90m11:51:24[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m11:51:27[39m[32m   ***  User: [39mAle[32m  |  Room: [39male[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Ale pass: ale
+Password in text: ale
+info: socket.io started
+[35m           SERVER  RUNNING[39m
+          [31md[39m[33me[39m[32mv[39m[34me[39m[35ml[39m[31mo[39m[33mp[39m[32me[39m[34md[39m [31mb[39m[33my[39m [34mA[39m[35ms[39m[31mk[39m[33my[39m
+[90m12:11:48[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:11:51[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m12:11:54[39m[32m   User [39mJairo[32m disconnected[39m
+[90m12:15:07[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:41:12[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m12:51:58[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m13:02:53[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+info: socket.io started
+[35m           SERVER  RUNNING[39m
+          [31md[39m[33me[39m[32mv[39m[34me[39m[35ml[39m[31mo[39m[33mp[39m[32me[39m[34md[39m [31mb[39m[33my[39m [34mA[39m[35ms[39m[31mk[39m[33my[39m
+[90m09:39:22[39m[36m   Socket connected from IP: [39m85.137.118.219
+[90m09:39:22[39m[36m   Socket [39m85.137.118.219[36m disconnected[39m
+[90m20:38:23[39m[36m   Socket connected from IP: [39m85.137.118.219
+[90m20:38:26[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m85.137.118.219[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m20:39:57[39m[32m   User [39mJairo[32m disconnected[39m
+info: socket.io started
+[35m           SERVER  RUNNING[39m
+          [31md[39m[33me[39m[32mv[39m[34me[39m[35ml[39m[31mo[39m[33mp[39m[32me[39m[34md[39m [31mb[39m[33my[39m [34mA[39m[35ms[39m[31mk[39m[33my[39m
+[90m11:12:54[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m11:12:55[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m11:12:59[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m11:13:00[39m[32m   ***  User: [39mqwe[32m  |  Room: [39mqwe[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: qwe pass: qwe
+Password in text: qwe
+[90m11:13:16[39m[32m   User [39mqwe[32m disconnected[39m
+[90m11:13:18[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m11:13:22[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+Deleted: ejFOLpaBEAlaFEA (1).doc
+Deleted: licensekey.dat
+Deleted: wallpaper1205988.jpg
+[90m11:14:16[39m[32m   User [39mJairo[32m disconnected[39m
+[90m12:10:32[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:10:35[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m12:15:12[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:15:16[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m12:16:03[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:16:04[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m12:28:44[39m[32m   User [39mJairo[32m disconnected[39m
+[90m12:38:15[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:38:16[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m12:41:52[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:41:58[39m[32m   ***  User: [39m1234[32m  |  Room: [39m1234[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: 1234 pass: 1234
+Password in text: 1234
+[90m12:43:50[39m[32m   User [39m1234[32m disconnected[39m
+[90m14:32:13[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m14:32:18[39m[32m   ***  User: [39m1234[32m  |  Room: [39m1234[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: 1234 pass: 1234
+Password in text: 1234
+[90m14:38:19[39m[32m   User [39m1234[32m disconnected[39m
+[90m22:55:30[39m[36m   Socket connected from IP: [39m85.137.118.219
+[90m22:55:36[39m[36m   Socket [39m85.137.118.219[36m disconnected[39m
+[90m10:02:43[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m10:02:47[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m10:02:54[39m[32m   User [39mJairo[32m disconnected[39m
+[90m11:58:51[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m11:58:54[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m11:58:57[39m[32m   User [39mJairo[32m disconnected[39m
+[90m23:35:29[39m[36m   Socket connected from IP: [39m81.32.153.56
+[90m23:37:49[39m[36m   Socket [39m81.32.153.56[36m disconnected[39m
+[90m13:00:03[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m13:00:07[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m13:00:34[39m[32m   User [39mJairo[32m disconnected[39m
+warn: client not handshaken client should reconnect
+[90m06:53:18[39m[36m   Socket connected from IP: [39m66.249.67.46
+[90m06:54:18[39m[36m   Socket [39m66.249.67.46[36m disconnected[39m
+[90m19:14:50[39m[36m   Socket connected from IP: [39m149.91.124.172
+[90m19:14:54[39m[32m   ***  User: [39mMaria[32m  |  Room: [39mmariafrancesita[32m  |  IP: [39m149.91.124.172[32m  ***[39m
+user: Maria pass: mariafrancesita
+Password in text: mariafrancesita
+[90m19:24:58[39m[32m   User [39mMaria[32m disconnected[39m
+[90m20:08:22[39m[36m   Socket connected from IP: [39m85.137.118.219
+[90m20:08:41[39m[36m   Socket connected from IP: [39m79.155.246.107
+[90m20:08:53[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m85.137.118.219[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m20:09:02[39m[32m   ***  User: [39maikas[32m  |  Room: [39m1234[32m  |  IP: [39m79.155.246.107[32m  ***[39m
+[90m20:09:12[39m[32m   ***  User: [39maikas[32m  |  Room: [39m1234[32m  |  IP: [39m79.155.246.107[32m  ***[39m
+user: aikas pass: 1234
+Password in text: 1234
+[90m20:24:27[39m[32m   User [39mJairo[32m disconnected[39m
+[90m20:43:24[39m[32m   User [39maikas[32m disconnected[39m
+[90m18:32:45[39m[36m   Socket connected from IP: [39m95.20.121.140
+[90m18:32:50[39m[32m   ***  User: [39mabc[32m  |  Room: [39mabc[32m  |  IP: [39m95.20.121.140[32m  ***[39m
+[90m18:32:52[39m[32m   ***  User: [39mabc[32m  |  Room: [39mabc[32m  |  IP: [39m95.20.121.140[32m  ***[39m
+user: abc pass: abc
+Password in text: abc
+[90m18:35:18[39m[32m   User [39mabc[32m disconnected[39m
+[90m20:52:09[39m[36m   Socket connected from IP: [39m185.13.202.224
+[90m20:52:12[39m[32m   ***  User: [39mwawdas[32m  |  Room: [39masd[32m  |  IP: [39m185.13.202.224[32m  ***[39m
+[90m20:52:14[39m[32m   ***  User: [39mwawdas[32m  |  Room: [39masd[32m  |  IP: [39m185.13.202.224[32m  ***[39m
+user: wawdas pass: asd
+Password in text: asd
+[90m20:52:22[39m[32m   User [39mwawdas[32m disconnected[39m
+[90m08:33:17[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m08:33:21[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m08:33:28[39m[32m   User [39mJairo[32m disconnected[39m
+[90m10:52:29[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m10:52:33[39m[32m   ***  User: [39m1234[32m  |  Room: [39m1234[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: 1234 pass: 1234
+Password in text: 1234
+[90m10:55:16[39m[32m   User [39m1234[32m disconnected[39m
+[90m14:01:33[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m14:01:37[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m18:35:31[39m[36m   Socket connected from IP: [39m85.137.118.219
+[90m18:35:36[39m[36m   Socket [39m85.137.118.219[36m disconnected[39m
+[90m00:23:31[39m[36m   Socket connected from IP: [39m83.40.86.75
+[90m00:23:35[39m[32m   ***  User: [39maikas[32m  |  Room: [39m1234[32m  |  IP: [39m83.40.86.75[32m  ***[39m
+user: aikas pass: 1234
+Password in text: 1234
+[90m00:23:57[39m[32m   User [39maikas[32m disconnected[39m
+[90m21:22:36[39m[36m   Socket connected from IP: [39m66.249.93.188
+[90m21:24:02[39m[36m   Socket [39m66.249.93.188[36m disconnected[39m
+[90m00:03:24[39m[36m   Socket connected from IP: [39m83.40.86.75
+[90m00:03:27[39m[36m   Socket [39m83.40.86.75[36m disconnected[39m
+[90m18:33:50[39m[36m   Socket connected from IP: [39m85.137.118.219
+[90m18:33:53[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m85.137.118.219[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m18:34:02[39m[32m   User [39mJairo[32m disconnected[39m
+[90m21:05:38[39m[36m   Socket connected from IP: [39m85.137.118.219
+[90m21:05:47[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m85.137.118.219[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m21:06:09[39m[32m   User [39mJairo[32m disconnected[39m
+[90m21:11:34[39m[36m   Socket connected from IP: [39m85.137.118.219
+[90m21:11:37[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m85.137.118.219[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m21:11:56[39m[36m   Socket connected from IP: [39m85.137.158.232
+[90m21:12:01[39m[32m   ***  User: [39mcarlos[32m  |  Room: [39mcarlos[32m  |  IP: [39m85.137.158.232[32m  ***[39m
+user: carlos pass: carlos
+Password in text: 1234
+[90m21:12:09[39m[32m   ***  User: [39mcarlos[32m  |  Room: [39mhh[32m  |  IP: [39m85.137.158.232[32m  ***[39m
+user: carlos pass: hh
+Password in text: 1234
+[90m21:12:38[39m[32m   ***  User: [39motro[32m  |  Room: [39motro[32m  |  IP: [39m85.137.158.232[32m  ***[39m
+[90m21:12:46[39m[32m   ***  User: [39motro[32m  |  Room: [39motro[32m  |  IP: [39m85.137.158.232[32m  ***[39m
+user: otro pass: otro
+Password in text: otro
+[90m21:29:11[39m[36m   Socket connected from IP: [39m85.137.158.232
+[90m21:29:14[39m[36m   Socket [39m85.137.158.232[36m disconnected[39m
+[90m21:29:14[39m[36m   Socket connected from IP: [39m85.137.158.232
+[90m21:29:15[39m[32m   User [39motro[32m disconnected[39m
+[90m21:29:17[39m[32m   ***  User: [39motro[32m  |  Room: [39motro[32m  |  IP: [39m85.137.158.232[32m  ***[39m
+user: otro pass: otro
+Password in text: otro
+[90m21:31:23[39m[32m   User [39motro[32m disconnected[39m
+[90m21:31:44[39m[32m   User [39mJairo[32m disconnected[39m
+[90m01:40:27[39m[36m   Socket connected from IP: [39m85.137.118.219
+[90m01:40:28[39m[36m   Socket [39m85.137.118.219[36m disconnected[39m
+[90m11:47:03[39m[36m   Socket connected from IP: [39m85.137.118.219
+[90m11:47:17[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m85.137.118.219[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m11:49:34[39m[36m   Socket connected from IP: [39m85.137.158.232
+[90m11:49:36[39m[32m   ***  User: [39motro[32m  |  Room: [39motro[32m  |  IP: [39m85.137.158.232[32m  ***[39m
+user: otro pass: otro
+Password in text: otro
+[90m11:57:32[39m[32m   User [39motro[32m disconnected[39m
+[90m11:57:33[39m[36m   Socket connected from IP: [39m85.137.158.232
+[90m11:57:49[39m[36m   Socket [39m85.137.158.232[36m disconnected[39m
+[90m11:57:49[39m[36m   Socket connected from IP: [39m85.137.158.232
+[90m11:57:53[39m[32m   ***  User: [39motro[32m  |  Room: [39motro[32m  |  IP: [39m85.137.158.232[32m  ***[39m
+user: otro pass: otro
+Password in text: otro
+[90m12:06:34[39m[32m   User [39motro[32m disconnected[39m
+[90m12:10:39[39m[32m   User [39mJairo[32m disconnected[39m
+[90m12:14:21[39m[36m   Socket connected from IP: [39m85.137.118.219
+[90m12:14:24[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m85.137.118.219[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m12:14:32[39m[36m   Socket connected from IP: [39m85.137.118.219
+[90m12:14:33[39m[32m   ***  User: [39mqwe[32m  |  Room: [39mqwe[32m  |  IP: [39m85.137.118.219[32m  ***[39m
+user: qwe pass: qwe
+Password in text: qwe
+[90m12:16:12[39m[32m   User [39mJairo[32m disconnected[39m
+[90m12:16:13[39m[36m   Socket connected from IP: [39m85.137.118.219
+[90m12:16:14[39m[32m   User [39mqwe[32m disconnected[39m
+[90m12:16:15[39m[36m   Socket connected from IP: [39m85.137.118.219
+[90m12:16:18[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m85.137.118.219[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m12:16:25[39m[32m   ***  User: [39mqwe[32m  |  Room: [39mqwe[32m  |  IP: [39m85.137.118.219[32m  ***[39m
+user: qwe pass: qwe
+Password in text: qwe
+[90m12:17:39[39m[32m   User [39mqwe[32m disconnected[39m
+[90m12:17:39[39m[36m   Socket connected from IP: [39m85.137.118.219
+[90m12:17:40[39m[32m   User [39mJairo[32m disconnected[39m
+[90m12:17:41[39m[36m   Socket connected from IP: [39m85.137.118.219
+[90m12:17:44[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m85.137.118.219[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m12:17:49[39m[32m   ***  User: [39mqwe[32m  |  Room: [39mqwe[32m  |  IP: [39m85.137.118.219[32m  ***[39m
+user: qwe pass: qwe
+Password in text: qwe
+[90m12:18:02[39m[32m   User [39mJairo[32m disconnected[39m
+[90m12:18:02[39m[32m   User [39mqwe[32m disconnected[39m
+[90m13:18:25[39m[36m   Socket connected from IP: [39m85.137.118.219
+[90m13:18:31[39m[32m   ***  User: [39mqwe[32m  |  Room: [39mqwe[32m  |  IP: [39m85.137.118.219[32m  ***[39m
+user: qwe pass: qwe
+Password in text: qwe
+[90m13:18:59[39m[32m   User [39mqwe[32m disconnected[39m
+[90m13:19:13[39m[36m   Socket connected from IP: [39m85.137.118.219
+[90m13:19:18[39m[32m   ***  User: [39mqwe[32m  |  Room: [39mqwe[32m  |  IP: [39m85.137.118.219[32m  ***[39m
+user: qwe pass: qwe
+Password in text: qwe
+[90m13:19:43[39m[32m   User [39mqwe[32m disconnected[39m
+[90m00:20:37[39m[36m   Socket connected from IP: [39m85.137.118.219
+[90m00:20:41[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m85.137.118.219[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m00:21:06[39m[32m   User [39mJairo[32m disconnected[39m
+[90m03:20:02[39m[36m   Socket connected from IP: [39m85.137.118.219
+[90m03:20:04[39m[32m   ***  User: [39mqwe[32m  |  Room: [39mqwe[32m  |  IP: [39m85.137.118.219[32m  ***[39m
+user: qwe pass: qwe
+Password in text: qwe
+[90m03:20:10[39m[32m   User [39mqwe[32m disconnected[39m
+[90m03:04:52[39m[36m   Socket connected from IP: [39m85.137.118.219
+[90m03:04:54[39m[32m   ***  User: [39mqwe[32m  |  Room: [39mqwe[32m  |  IP: [39m85.137.118.219[32m  ***[39m
+user: qwe pass: qwe
+Password in text: qwe
+[90m03:04:59[39m[32m   User [39mqwe[32m disconnected[39m
+warn: client not handshaken client should reconnect
+[90m18:57:44[39m[36m   Socket connected from IP: [39m66.249.78.48
+[90m18:58:44[39m[36m   Socket [39m66.249.78.48[36m disconnected[39m
+[90m12:08:49[39m[36m   Socket connected from IP: [39m77.229.116.108
+[90m12:08:51[39m[36m   Socket [39m77.229.116.108[36m disconnected[39m
+[90m00:26:24[39m[36m   Socket connected from IP: [39m85.137.118.219
+[90m00:26:24[39m[36m   Socket [39m85.137.118.219[36m disconnected[39m
+[90m09:42:52[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m09:42:55[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m12:33:34[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:33:35[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:33:37[39m[32m   ***  User: [39mpedro[32m  |  Room: [39mpedro1212[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: pedro pass: pedro1212
+Password in text: pedro1212
+[90m12:33:43[39m[32m   ***  User: [39msdfasdfa[32m  |  Room: [39mafsdfafda[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+[90m12:33:43[39m[32m   ***  User: [39msdfasdfa[32m  |  Room: [39mafsdfafda[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: sdfasdfa pass: afsdfafda
+Password in text: afsdfafda
+[90m12:33:44[39m[32m   ***  User: [39msdfasdfa[32m  |  Room: [39mafsdfafda[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+[90m12:33:44[39m[32m   ***  User: [39msdfasdfa[32m  |  Room: [39mafsdfafda[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: sdfasdfa pass: afsdfafda
+Password in text: afsdfafda
+user: sdfasdfa pass: afsdfafda
+Password in text: afsdfafda
+[90m12:33:44[39m[32m   ***  User: [39msdfasdfa[32m  |  Room: [39mafsdfafda[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: sdfasdfa pass: afsdfafda
+Password in text: afsdfafda
+[90m12:33:48[39m[32m   ***  User: [39msdfasdfa[32m  |  Room: [39mafsdfafda[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+[90m12:33:48[39m[32m   ***  User: [39msdfasdfa[32m  |  Room: [39mafsdfafda[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+[90m12:33:48[39m[32m   ***  User: [39msdfasdfa[32m  |  Room: [39mafsdfafda[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+[90m12:33:48[39m[32m   ***  User: [39msdfasdfa[32m  |  Room: [39mafsdfafda[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+[90m12:33:48[39m[32m   ***  User: [39msdfasdfa[32m  |  Room: [39mafsdfafda [32m  |  IP: [39m2.139.242.136[32m  ***[39m
+[90m12:33:48[39m[32m   ***  User: [39msdfasdfa[32m  |  Room: [39mafsdfafda [32m  |  IP: [39m2.139.242.136[32m  ***[39m
+[90m12:33:48[39m[32m   ***  User: [39msdfasdfa[32m  |  Room: [39mafsdfafda  [32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: sdfasdfa pass: afsdfafda
+Password in text: afsdfafda
+user: sdfasdfa pass: afsdfafda
+Password in text: afsdfafda
+user: sdfasdfa pass: afsdfafda
+Password in text: afsdfafda
+user: sdfasdfa pass: afsdfafda
+Password in text: afsdfafda
+user: sdfasdfa pass: afsdfafda 
+Password in text: afsdfafda
+user: sdfasdfa pass: afsdfafda 
+Password in text: afsdfafda
+user: sdfasdfa pass: afsdfafda  
+Password in text: afsdfafda
+[90m12:33:48[39m[32m   ***  User: [39msdfasdfa[32m  |  Room: [39mafsdfafda   [32m  |  IP: [39m2.139.242.136[32m  ***[39m
+[90m12:33:48[39m[32m   ***  User: [39msdfasdfa[32m  |  Room: [39mafsdfafda   [32m  |  IP: [39m2.139.242.136[32m  ***[39m
+[90m12:33:48[39m[32m   ***  User: [39msdfasdfa[32m  |  Room: [39mafsdfafda   [32m  |  IP: [39m2.139.242.136[32m  ***[39m
+[90m12:33:48[39m[32m   ***  User: [39msdfasdfa[32m  |  Room: [39mafsdfafda   [32m  |  IP: [39m2.139.242.136[32m  ***[39m
+[90m12:33:48[39m[32m   ***  User: [39msdfasdfa[32m  |  Room: [39mafsdfafda   [32m  |  IP: [39m2.139.242.136[32m  ***[39m
+[90m12:33:48[39m[32m   ***  User: [39msdfasdfa[32m  |  Room: [39mafsdfafda   [32m  |  IP: [39m2.139.242.136[32m  ***[39m
+[90m12:33:48[39m[32m   ***  User: [39msdfasdfa[32m  |  Room: [39mafsdfafda   [32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: sdfasdfa pass: afsdfafda   
+Password in text: afsdfafda
+user: sdfasdfa pass: afsdfafda   
+Password in text: afsdfafda
+user: sdfasdfa pass: afsdfafda   
+Password in text: afsdfafda
+user: sdfasdfa pass: afsdfafda   
+Password in text: afsdfafda
+user: sdfasdfa pass: afsdfafda   
+Password in text: afsdfafda
+user: sdfasdfa pass: afsdfafda   
+Password in text: afsdfafda
+user: sdfasdfa pass: afsdfafda   
+Password in text: afsdfafda
+[90m12:34:52[39m[32m   User [39mpedro[32m disconnected[39m
+[90m12:35:00[39m[32m   User [39m[32m disconnected[39m
+[90m12:35:22[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:35:23[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:35:42[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m12:35:47[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:36:12[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:36:22[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m12:37:01[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m12:37:02[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:37:06[39m[32m   ***  User: [39mpedro[32m  |  Room: [39mpedro1212[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: pedro pass: pedro1212
+Password in text: pedro1212
+[90m12:37:12[39m[32m   ***  User: [39msubrnoal[32m  |  Room: [39mbobo[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+[90m12:37:23[39m[32m   ***  User: [39msubrnoal[32m  |  Room: [39mbobo[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: subrnoal pass: bobo
+Password in text: bobo
+[90m12:39:52[39m[32m   User [39msubrnoal[32m disconnected[39m
+[90m12:44:38[39m[32m   User [39mpedro[32m disconnected[39m
+[90m14:13:46[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m14:13:50[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m14:13:59[39m[32m   User [39mJairo[32m disconnected[39m
+[90m10:19:07[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m10:19:08[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m11:58:42[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m11:58:44[39m[32m   ***  User: [39mqwe[32m  |  Room: [39mqwe[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: qwe pass: qwe
+Password in text: qwe
+[90m11:59:13[39m[32m   User [39mqwe[32m disconnected[39m
+[90m11:59:27[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m11:59:31[39m[32m   ***  User: [39mqwe[32m  |  Room: [39mqwe[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: qwe pass: qwe
+Password in text: qwe
+[90m12:00:45[39m[32m   User [39mqwe[32m disconnected[39m
+[90m12:31:35[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:31:37[39m[32m   ***  User: [39mqwe[32m  |  Room: [39mqwe[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: qwe pass: qwe
+Password in text: qwe
+[90m12:32:05[39m[32m   User [39mqwe[32m disconnected[39m
+[90m12:32:12[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:32:13[39m[32m   ***  User: [39mqwe[32m  |  Room: [39mqwe[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: qwe pass: qwe
+Password in text: qwe
+[90m12:32:32[39m[32m   User [39mqwe[32m disconnected[39m
+[90m14:17:26[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m14:17:28[39m[32m   ***  User: [39mqwe[32m  |  Room: [39mqwe[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: qwe pass: qwe
+Password in text: qwe
+[90m14:17:57[39m[32m   User [39mqwe[32m disconnected[39m
+[90m14:18:06[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m14:18:07[39m[32m   ***  User: [39mqwe[32m  |  Room: [39mqwe[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: qwe pass: qwe
+Password in text: qwe
+[90m14:18:15[39m[32m   User [39mqwe[32m disconnected[39m
+[90m14:40:16[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m14:40:17[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m23:49:27[39m[36m   Socket connected from IP: [39m85.137.118.219
+[90m23:49:29[39m[36m   Socket [39m85.137.118.219[36m disconnected[39m
+[90m11:01:50[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m11:01:55[39m[32m   ***  User: [39mMaria[32m  |  Room: [39mmariafrancesita[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Maria pass: mariafrancesita
+Password in text: mariafrancesita
+[90m11:15:11[39m[32m   User [39mMaria[32m disconnected[39m
+[90m14:21:57[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m14:21:57[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m14:26:35[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m14:26:37[39m[32m   ***  User: [39mqwe[32m  |  Room: [39mqwe[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: qwe pass: qwe
+Password in text: qwe
+[90m14:27:35[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m14:27:37[39m[32m   ***  User: [39mqwe[32m  |  Room: [39mqwe[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: qwe pass: qwe
+Password in text: qwe
+[90m14:27:55[39m[32m   User [39mqwe[32m disconnected[39m
+[90m14:28:24[39m[32m   User [39mqwe[32m disconnected[39m
+[90m23:49:43[39m[36m   Socket connected from IP: [39m85.137.118.219
+[90m23:49:52[39m[36m   Socket [39m85.137.118.219[36m disconnected[39m
+[90m12:43:47[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:43:49[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m23:59:54[39m[36m   Socket connected from IP: [39m2.138.157.6
+[90m00:00:04[39m[32m   ***  User: [39maikas[32m  |  Room: [39m1234[32m  |  IP: [39m2.138.157.6[32m  ***[39m
+user: aikas pass: 1234
+Password in text: 1234
+[90m00:00:36[39m[32m   User [39maikas[32m disconnected[39m
+[90m08:58:47[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m08:58:54[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m08:59:52[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m09:00:07[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m10:47:06[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m10:47:09[39m[32m   ***  User: [39mqwe[32m  |  Room: [39mqwe[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: qwe pass: qwe
+Password in text: qwe
+[90m10:47:10[39m[32m   User [39mqwe[32m disconnected[39m
+warn: client not handshaken client should reconnect
+warn: client not handshaken client should reconnect
+[90m06:02:25[39m[36m   Socket connected from IP: [39m66.249.69.126
+[90m06:03:25[39m[36m   Socket [39m66.249.69.126[36m disconnected[39m
+[90m23:59:18[39m[36m   Socket connected from IP: [39m85.137.118.219
+[90m23:59:18[39m[36m   Socket [39m85.137.118.219[36m disconnected[39m
+[90m23:51:27[39m[36m   Socket connected from IP: [39m85.137.118.219
+[90m23:51:27[39m[36m   Socket [39m85.137.118.219[36m disconnected[39m
+[90m14:23:29[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m14:23:31[39m[32m   ***  User: [39mMaria[32m  |  Room: [39mmaria[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Maria pass: maria
+Password in text: mariafrancesita
+[90m14:23:34[39m[32m   ***  User: [39mMaria[32m  |  Room: [39mmariafrancesita[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Maria pass: mariafrancesita
+Password in text: mariafrancesita
+[90m14:27:23[39m[32m   User [39mMaria[32m disconnected[39m
+[90m11:03:06[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m11:03:08[39m[32m   ***  User: [39mqwe[32m  |  Room: [39mqwe[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: qwe pass: qwe
+Password in text: qwe
+[90m11:03:10[39m[32m   User [39mqwe[32m disconnected[39m
+[90m11:03:33[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m11:03:34[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m11:03:37[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m11:03:40[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+Deleted: terminal.zip
+Deleted: terminal.zip
+Deleted: xTerminal.zip
+Deleted: xTerminal (1).zip
+Deleted: xTerminal (2).zip
+[90m11:12:12[39m[32m   User [39mJairo[32m disconnected[39m
+[90m11:30:25[39m[36m   Socket connected from IP: [39m62.99.77.79
+[90m11:30:30[39m[36m   Socket [39m62.99.77.79[36m disconnected[39m
+[90m11:56:07[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m11:56:27[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m11:56:32[39m[32m   User [39mJairo[32m disconnected[39m
+[90m12:41:21[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m12:41:24[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.136[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m12:42:47[39m[32m   User [39mJairo[32m disconnected[39m
+[90m16:47:05[39m[36m   Socket connected from IP: [39m85.137.118.219
+[90m16:47:07[39m[32m   ***  User: [39mqwe[32m  |  Room: [39mqwe[32m  |  IP: [39m85.137.118.219[32m  ***[39m
+user: qwe pass: qwe
+Password in text: qwe
+[90m16:47:11[39m[32m   User [39mqwe[32m disconnected[39m
+[90m22:46:36[39m[36m   Socket connected from IP: [39m85.137.118.219
+[90m22:46:48[39m[32m   ***  User: [39mqwe[32m  |  Room: [39mqwe[32m  |  IP: [39m85.137.118.219[32m  ***[39m
+user: qwe pass: qwe
+Password in text: qwe
+[90m22:49:52[39m[32m   User [39mqwe[32m disconnected[39m
+[90m22:52:39[39m[36m   Socket connected from IP: [39m85.137.118.219
+[90m22:52:52[39m[36m   Socket [39m85.137.118.219[36m disconnected[39m
+[90m20:40:55[39m[36m   Socket connected from IP: [39m85.137.118.219
+[90m20:40:57[39m[32m   ***  User: [39mqwe[32m  |  Room: [39mqwe[32m  |  IP: [39m85.137.118.219[32m  ***[39m
+user: qwe pass: qwe
+Password in text: qwe
+[90m20:40:59[39m[32m   User [39mqwe[32m disconnected[39m
+[90m16:13:20[39m[36m   Socket connected from IP: [39m85.137.118.219
+[90m16:13:21[39m[36m   Socket [39m85.137.118.219[36m disconnected[39m
+[90m16:13:39[39m[36m   Socket connected from IP: [39m85.137.118.219
+[90m16:18:03[39m[36m   Socket [39m85.137.118.219[36m disconnected[39m
+[90m10:32:29[39m[36m   Socket connected from IP: [39m2.139.242.136
+[90m10:32:29[39m[36m   Socket [39m2.139.242.136[36m disconnected[39m
+[90m20:45:05[39m[36m   Socket connected from IP: [39m85.137.118.219
+[90m20:45:28[39m[32m   ***  User: [39mqwe[32m  |  Room: [39mqwe[32m  |  IP: [39m85.137.118.219[32m  ***[39m
+user: qwe pass: qwe
+Password in text: qwe
+[90m20:45:53[39m[32m   User [39mqwe[32m disconnected[39m
+[90m21:34:11[39m[36m   Socket connected from IP: [39m85.137.118.219
+[90m21:34:15[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m85.137.118.219[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m21:34:18[39m[32m   User [39mJairo[32m disconnected[39m
+[90m21:35:05[39m[36m   Socket connected from IP: [39m85.137.118.219
+[90m21:35:08[39m[36m   Socket [39m85.137.118.219[36m disconnected[39m
+[90m21:37:24[39m[36m   Socket connected from IP: [39m85.137.118.219
+[90m21:37:27[39m[36m   Socket [39m85.137.118.219[36m disconnected[39m
+stop: missing job name
+Try `stop --help' for more information.
+info: socket.io started
+[35m           SERVER  RUNNING[39m
+          [31md[39m[33me[39m[32mv[39m[34me[39m[35ml[39m[31mo[39m[33mp[39m[32me[39m[34md[39m [31mb[39m[33my[39m [34mA[39m[35ms[39m[31mk[39m[33my[39m
+[90m09:40:44[39m[36m   Socket connected from IP: [39m2.139.242.137
+[90m09:40:52[39m[36m   Socket [39m2.139.242.137[36m disconnected[39m
+[90m09:47:09[39m[36m   Socket connected from IP: [39m2.139.242.137
+[90m09:47:12[39m[36m   Socket [39m2.139.242.137[36m disconnected[39m
+[90m10:27:20[39m[36m   Socket connected from IP: [39m2.139.242.137
+[90m10:27:25[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.137[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m10:27:33[39m[32m   User [39mJairo[32m disconnected[39m
+[90m10:45:24[39m[36m   Socket connected from IP: [39m2.139.242.137
+[90m10:45:27[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.137[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+ hola
+
+[90m10:45:40[39m[32m   User [39mJairo[32m disconnected[39m
+[90m10:54:26[39m[36m   Socket connected from IP: [39m2.139.242.137
+[90m10:55:11[39m[36m   Socket [39m2.139.242.137[36m disconnected[39m
+[90m11:15:56[39m[36m   Socket connected from IP: [39m2.139.242.137
+[90m11:16:49[39m[36m   Socket [39m2.139.242.137[36m disconnected[39m
+[90m11:17:06[39m[36m   Socket connected from IP: [39m2.139.242.137
+[90m11:17:14[39m[36m   Socket [39m2.139.242.137[36m disconnected[39m
+[90m11:42:03[39m[36m   Socket connected from IP: [39m2.139.242.137
+[90m11:43:33[39m[36m   Socket [39m2.139.242.137[36m disconnected[39m
+[90m11:43:35[39m[36m   Socket connected from IP: [39m2.139.242.137
+[90m11:44:34[39m[36m   Socket [39m2.139.242.137[36m disconnected[39m
+[90m11:44:36[39m[36m   Socket connected from IP: [39m2.139.242.137
+[90m11:44:41[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.137[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m11:46:12[39m[32m   User [39mJairo[32m disconnected[39m
+[90m11:46:15[39m[36m   Socket connected from IP: [39m2.139.242.137
+[90m11:46:18[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.137[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m11:53:10[39m[32m   User [39mJairo[32m disconnected[39m
+[90m11:53:14[39m[36m   Socket connected from IP: [39m2.139.242.137
+[90m11:53:16[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.137[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m11:55:24[39m[32m   User [39mJairo[32m disconnected[39m
+[90m11:55:26[39m[36m   Socket connected from IP: [39m2.139.242.137
+[90m11:55:29[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.137[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+info: socket.io started
+[35m           SERVER  RUNNING[39m
+          [31md[39m[33me[39m[32mv[39m[34me[39m[35ml[39m[31mo[39m[33mp[39m[32me[39m[34md[39m [31mb[39m[33my[39m [34mA[39m[35ms[39m[31mk[39m[33my[39m
+[90m12:01:24[39m[36m   Socket connected from IP: [39m2.139.242.137
+[90m12:01:27[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.137[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+info: socket.io started
+[35m           SERVER  RUNNING[39m
+          [31md[39m[33me[39m[32mv[39m[34me[39m[35ml[39m[31mo[39m[33mp[39m[32me[39m[34md[39m [31mb[39m[33my[39m [34mA[39m[35ms[39m[31mk[39m[33my[39m
+[90m12:04:38[39m[36m   Socket connected from IP: [39m2.139.242.137
+[90m12:04:38[39m[36m   Socket [39m2.139.242.137[36m disconnected[39m
+[90m12:04:45[39m[36m   Socket connected from IP: [39m2.139.242.137
+[90m12:04:47[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.137[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+Deleted: 518fc6ff4c7a820181.jpg
+[90m12:05:51[39m[32m   User [39mJairo[32m disconnected[39m
+[90m12:11:37[39m[36m   Socket connected from IP: [39m2.139.242.137
+[90m12:11:43[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.137[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m12:13:34[39m[32m   User [39mJairo[32m disconnected[39m
+[90m12:13:54[39m[36m   Socket connected from IP: [39m2.139.242.137
+[90m12:14:12[39m[36m   Socket [39m2.139.242.137[36m disconnected[39m
+[90m12:14:23[39m[36m   Socket connected from IP: [39m2.139.242.137
+[90m12:15:30[39m[36m   Socket [39m2.139.242.137[36m disconnected[39m
+[90m12:15:39[39m[36m   Socket connected from IP: [39m2.139.242.137
+[90m12:16:26[39m[36m   Socket [39m2.139.242.137[36m disconnected[39m
+[90m12:16:40[39m[36m   Socket connected from IP: [39m2.139.242.137
+[90m12:16:46[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.137[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m12:16:48[39m[32m   User [39mJairo[32m disconnected[39m
+[90m12:17:03[39m[36m   Socket connected from IP: [39m2.139.242.137
+[90m12:18:50[39m[36m   Socket [39m2.139.242.137[36m disconnected[39m
+[90m12:18:57[39m[36m   Socket connected from IP: [39m2.139.242.137
+[90m12:19:01[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.137[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m12:19:34[39m[32m   User [39mJairo[32m disconnected[39m
+[90m12:19:41[39m[36m   Socket connected from IP: [39m2.139.242.137
+[90m12:19:47[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.137[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m12:22:10[39m[32m   User [39mJairo[32m disconnected[39m
+[90m12:22:18[39m[36m   Socket connected from IP: [39m2.139.242.137
+[90m12:22:23[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.137[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m12:22:45[39m[32m   User [39mJairo[32m disconnected[39m
+[90m13:03:00[39m[36m   Socket connected from IP: [39m2.139.242.137
+[90m13:03:03[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.137[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m13:03:05[39m[32m   User [39mJairo[32m disconnected[39m
+[90m13:28:24[39m[36m   Socket connected from IP: [39m85.137.118.219
+[90m13:28:27[39m[36m   Socket [39m85.137.118.219[36m disconnected[39m
+[90m22:27:41[39m[36m   Socket connected from IP: [39m85.137.118.219
+[90m22:27:44[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m85.137.118.219[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m22:28:15[39m[32m   User [39mJairo[32m disconnected[39m
+[90m23:28:34[39m[36m   Socket connected from IP: [39m85.137.118.219
+[90m23:28:38[39m[36m   Socket [39m85.137.118.219[36m disconnected[39m
+[90m12:06:32[39m[36m   Socket connected from IP: [39m66.249.93.188
+[90m12:07:59[39m[36m   Socket [39m66.249.93.188[36m disconnected[39m
+info: socket.io started
+[35m           SERVER  RUNNING[39m
+          [31md[39m[33me[39m[32mv[39m[34me[39m[35ml[39m[31mo[39m[33mp[39m[32me[39m[34md[39m [31mb[39m[33my[39m [34mA[39m[35ms[39m[31mk[39m[33my[39m
+[90m08:22:40[39m[36m   Socket connected from IP: [39m2.139.242.137
+[90m08:22:44[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m2.139.242.137[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m08:23:11[39m[32m   User [39mJairo[32m disconnected[39m
+[90m11:04:19[39m[36m   Socket connected from IP: [39m2.139.242.137
+[90m11:04:20[39m[36m   Socket [39m2.139.242.137[36m disconnected[39m
+warn: client not handshaken client should reconnect
+[90m00:52:31[39m[36m   Socket connected from IP: [39m66.249.64.44
+[90m00:53:31[39m[36m   Socket [39m66.249.64.44[36m disconnected[39m
+info: socket.io started
+[35m           SERVER  RUNNING[39m
+          [31md[39m[33me[39m[32mv[39m[34me[39m[35ml[39m[31mo[39m[33mp[39m[32me[39m[34md[39m [31mb[39m[33my[39m [34mA[39m[35ms[39m[31mk[39m[33my[39m
+[90m23:22:17[39m[36m   Socket connected from IP: [39m85.137.118.219
+[90m23:22:20[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m85.137.118.219[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m23:23:14[39m[32m   User [39mJairo[32m disconnected[39m
+[90m13:59:44[39m[36m   Socket connected from IP: [39m85.137.118.219
+[90m13:59:45[39m[36m   Socket [39m85.137.118.219[36m disconnected[39m
+warn: client not handshaken client should reconnect
+warn: client not handshaken client should reconnect
+[90m23:40:59[39m[36m   Socket connected from IP: [39m66.249.78.48
+[90m23:41:59[39m[36m   Socket [39m66.249.78.48[36m disconnected[39m
+[90m11:59:38[39m[36m   Socket connected from IP: [39m2.139.242.137
+[90m11:59:41[39m[32m   ***  User: [39mqwe[32m  |  Room: [39mqwe[32m  |  IP: [39m2.139.242.137[32m  ***[39m
+user: qwe pass: qwe
+Password in text: qwe
+[90m11:59:49[39m[32m   User [39mqwe[32m disconnected[39m
+[90m11:59:55[39m[36m   Socket connected from IP: [39m2.139.242.137
+[90m11:59:58[39m[36m   Socket [39m2.139.242.137[36m disconnected[39m
+[90m12:06:57[39m[36m   Socket connected from IP: [39m2.139.242.137
+[90m12:07:04[39m[36m   Socket [39m2.139.242.137[36m disconnected[39m
+info: socket.io started
+[35m           SERVER  RUNNING[39m
+          [31md[39m[33me[39m[32mv[39m[34me[39m[35ml[39m[31mo[39m[33mp[39m[32me[39m[34md[39m [31mb[39m[33my[39m [34mA[39m[35ms[39m[31mk[39m[33my[39m
+warn: error raised: Error: listen EADDRINUSE
+info: socket.io started
+[35m           SERVER  RUNNING[39m
+          [31md[39m[33me[39m[32mv[39m[34me[39m[35ml[39m[31mo[39m[33mp[39m[32me[39m[34md[39m [31mb[39m[33my[39m [34mA[39m[35ms[39m[31mk[39m[33my[39m
+[90m13:07:17[39m[36m   Socket connected from IP: [39m85.137.172.120
+[90m13:07:25[39m[32m   ***  User: [39mAsky[32m  |  Room: [39makatsuki[32m  |  IP: [39m85.137.172.120[32m  ***[39m
+[90m13:07:27[39m[32m   ***  User: [39mAsky[32m  |  Room: [39makatsuki[32m  |  IP: [39m85.137.172.120[32m  ***[39m
+user: Asky pass: akatsuki
+Password in text: akatsuki
+[90m13:08:30[39m[36m   Socket connected from IP: [39m118.211.78.249
+[90m13:08:48[39m[36m   Socket connected from IP: [39m112.198.83.51
+[90m13:09:31[39m[32m   ***  User: [39mYamiSora[やみそら][32m  |  Room: [39msonofbelphegor[32m  |  IP: [39m112.198.83.51[32m  ***[39m
+[90m13:09:33[39m[32m   ***  User: [39mYamiSora[やみそら][32m  |  Room: [39msonofbelphegor[32m  |  IP: [39m112.198.83.51[32m  ***[39m
+user: YamiSora[やみそら] pass: sonofbelphegor
+Password in text: sonofbelphegor
+[90m13:09:33[39m[32m   ***  User: [39mYamiSora[やみそら][32m  |  Room: [39msonofbelphegor[32m  |  IP: [39m112.198.83.51[32m  ***[39m
+user: YamiSora[やみそら] pass: sonofbelphegor
+Password in text: sonofbelphegor
+[90m13:09:34[39m[32m   ***  User: [39mYamiSora[やみそら][32m  |  Room: [39msonofbelphegor[32m  |  IP: [39m112.198.83.51[32m  ***[39m
+user: YamiSora[やみそら] pass: sonofbelphegor
+Password in text: sonofbelphegor
+[90m13:09:34[39m[32m   ***  User: [39mYamiSora[やみそら][32m  |  Room: [39msonofbelphegor[32m  |  IP: [39m112.198.83.51[32m  ***[39m
+user: YamiSora[やみそら] pass: sonofbelphegor
+Password in text: sonofbelphegor
+[90m13:09:34[39m[32m   ***  User: [39mYamiSora[やみそら][32m  |  Room: [39msonofbelphegor[32m  |  IP: [39m112.198.83.51[32m  ***[39m
+user: YamiSora[やみそら] pass: sonofbelphegor
+Password in text: sonofbelphegor
+warn: websocket connection invalid
+warn: websocket connection invalid
+warn: websocket connection invalid
+[90m13:09:52[39m[36m   Socket [39m118.211.78.249[36m disconnected[39m
+[90m13:20:05[39m[32m   User [39mAsky[32m disconnected[39m
+[90m13:20:14[39m[32m   User [39mYamiSora[やみそら][32m disconnected[39m
+[90m00:57:51[39m[36m   Socket connected from IP: [39m85.137.172.120
+[90m00:57:55[39m[32m   ***  User: [39mJairo[32m  |  Room: [39makatsuki[32m  |  IP: [39m85.137.172.120[32m  ***[39m
+user: Jairo pass: akatsuki
+Password in text: akatsuki
+[90m00:58:00[39m[32m   User [39mJairo[32m disconnected[39m
+[90m16:46:05[39m[36m   Socket connected from IP: [39m66.249.69.13
+[90m16:47:05[39m[36m   Socket [39m66.249.69.13[36m disconnected[39m
+[90m18:22:42[39m[36m   Socket connected from IP: [39m66.249.69.122
+[90m18:23:42[39m[36m   Socket [39m66.249.69.122[36m disconnected[39m
+[90m13:02:14[39m[36m   Socket connected from IP: [39m85.137.172.120
+[90m13:03:31[39m[36m   Socket [39m85.137.172.120[36m disconnected[39m
