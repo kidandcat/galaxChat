@@ -12,13 +12,9 @@ block content
         input(type="password", class="centerred2", id="nameLogin2", maxlength="25")
   div(id="gray")
   div(class="hidder2", id="hidder2")
-   div(class="noprof")
-    div(id='roomstab', verticalScrollPolicy='on', readonly)
-   div(id="prof")
-    div(id='listenerEditor')
-     div(id="editor", style="width:500px;height:500px;float:right;opacity: 0.75;border-radius:25px;margin-right:15px")
-         p Max 100000 chars
-   div(class="noprof")
+
+
+   div(class="noprof", style="float:left;")
     p
     p <&#33;-- Code Society -->
     div(id="theVote")
@@ -48,6 +44,12 @@ block content
       div(onclick="priv()") Private
       div(onclick="ban()") Ban
       div(onclick="document.getElementById('show').style.display = 'none'") Nothing
+   div(id="prof", style="float:left;margin-left:15px;margin-top:25px")
+    div(id='listenerEditor')
+     div(id="editor", style="width:500px;height:500px;opacity: 0.75;border-radius:25px;margin-right:15px")
+        p Max 100000 chars
+   div(class="noprof", style="float:left;margin-top:25px")
+      div(id='roomstab', verticalScrollPolicy='on', readonly)
   script(type='text/javascript', src="/alertify.js")
   script(type='text/javascript', src="/socket.io/socket.io.js")
   script(type='text/javascript', src="/ace.js")
