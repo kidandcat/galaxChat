@@ -233,7 +233,7 @@ module.exports.listen = function (app, console){
 
 
 	//read users
-function regUser(user, password, socket){
+/*function regUser(user, password, socket){
     	lr = new LineByLineReader('routes/users.txt');
 	var done = 'no';
 
@@ -273,7 +273,7 @@ function regUser(user, password, socket){
 			});
 		}
 	});
-}
+}*/
 
 
 
