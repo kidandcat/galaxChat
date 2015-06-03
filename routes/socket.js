@@ -30,15 +30,15 @@ module.exports.listen = function (app, console){
 		var time = new Date();
 		return ((time.getHours() < 10)?"0":"") + time.getHours() +":"+ ((time.getMinutes() < 10)?"0":"") + time.getMinutes() +":"+ ((time.getSeconds() < 10)?"0":"") + time.getSeconds();
 	}
-	
+
 
 	function rAdmin(){
 		try{
-			var r = Math.floor((Math.random() * io.sockets.clients().length) + 1); 
+			var r = Math.floor((Math.random() * io.sockets.clients().length) + 1);
 			for(index = 0; index < io.sockets.clients().length; index++)
                                                 if(index == r)
                                                         randomAdmin = io.sockets.socket(io.sockets.clients()[index].id).user;
-			io.sockets.emit('msg', { msg: 'New Random Admin!! ->   ' + randomAdmin , user: 'SyStem' , color: 'orange'});		
+			io.sockets.emit('msg', { msg: 'New Random Admin!! ->   ' + randomAdmin , user: 'SyStem' , color: 'orange'});
 		}catch(e){console.log(e)}
 	}
 
@@ -48,7 +48,7 @@ module.exports.listen = function (app, console){
 		var address = socket.handshake.address;
 		//new client connection
 		console.log(time().grey + '   Socket connected from IP: '.cyan + address.address)
-		
+
 		//check user and room and join the user to the room, forcing him to leave the last room before it and send confirmation msg
 		socket.on('user', function(data){
 			if(data.room == '' || data.user == ''){}
@@ -60,13 +60,18 @@ module.exports.listen = function (app, console){
 			regUser(data.user, data.room, socket);
 
 		}})
-		
+
+		socket.on('username', function(data){
+			if(data.user != ''){
+				socket.user = data.user;
+			}
+		})
 
 		socket.on('delete',function(data){
 			if(data.filename != ""){
 				rimraf('./public/uploaded/files/' + data.filename, function(err){
 					if(err){console.log(err);}
-					console.log('Deleted: ' + data.filename);		
+					console.log('Deleted: ' + data.filename);
 				});
 			}
 		});
@@ -78,12 +83,12 @@ module.exports.listen = function (app, console){
 			});
 			console.log("appended");
 			//list.push(filter);
-		});	
+		});
 
 		socket.on('newServer', function(item){
 			list.push(item);
 			console.log("new server: " + item.url);
-		});	
+		});
 
 
 		socket.on('changeroom', function(data){
@@ -97,7 +102,7 @@ module.exports.listen = function (app, console){
 			}
 		});
 
-		
+
 		socket.on('wannaVote', function(){
 			socket.canVote = true;
 			votePeople++;
@@ -115,13 +120,13 @@ module.exports.listen = function (app, console){
 				socket.broadcast.to(socket.room).emit('msg', { msg: socket.user + ' has voted.', user: 'SyStem' , color: 'orange'});
 				socket.emit('msg', { msg: socket.user + ' has voted.' , user: 'SyStem' , color: 'orange'});
 				if(votePeople < 1){
-					socket.broadcast.to(socket.room).emit('msg', { msg: 'Vote has ended with ' + Yvotes + ' \'Yes\' votes and ' + Nvotes + ' \'No\' votes' , user: 'SyStem' , color: 'orange'});	
+					socket.broadcast.to(socket.room).emit('msg', { msg: 'Vote has ended with ' + Yvotes + ' \'Yes\' votes and ' + Nvotes + ' \'No\' votes' , user: 'SyStem' , color: 'orange'});
 					socket.emit('msg', { msg: 'Vote has ended with ' + Yvotes + ' \'Yes\' votes and ' + Nvotes + ' \'No\' votes' , user: 'SyStem' , color: 'orange'});
 					voting = "false";
 					clearTimeout(itime);
 					Nvotes = 0;
 					Yvotes = 0;
-					votePeople = 0;	
+					votePeople = 0;
 					console.log(voteMSG);
 					console.log(voteMSG.split(" ")[0]);
 					if(voteMSG.split(" ")[1] == 'kick'){
@@ -129,7 +134,7 @@ module.exports.listen = function (app, console){
 						if(voteMSG.split(" ")[2] == io.sockets.sockets[io.sockets.clients()[index].id].user)
 							io.sockets.socket(io.sockets.clients()[index].id).disconnect();
 					}
-							
+
 				}
 			}
 		});
@@ -147,12 +152,12 @@ module.exports.listen = function (app, console){
 				voteMSG = data.msg;
 				itime = setTimeout(function(){
 					if(votePeople < 1){
-					socket.broadcast.to(socket.room).emit('msg', { msg: 'Vote has ended with ' + Yvotes + ' \'Yes\' votes and ' + Nvotes + ' \'No\' votes' , user: 'SyStem' , color: 'orange'});	
+					socket.broadcast.to(socket.room).emit('msg', { msg: 'Vote has ended with ' + Yvotes + ' \'Yes\' votes and ' + Nvotes + ' \'No\' votes' , user: 'SyStem' , color: 'orange'});
 					socket.emit('msg', { msg: 'Vote has ended with ' + Yvotes + ' \'Yes\' votes and ' + Nvotes + ' \'No\' votes' , user: 'SyStem' , color: 'orange'});
 					voting = "false";
 					Nvotes = 0;
 					Yvotes = 0;
-					votePeople = 0;	
+					votePeople = 0;
 					console.log(voteMSG);
 					console.log(voteMSG.split(" ")[0]);
 					if(voteMSG.split(" ")[1] == 'kick'){
@@ -160,13 +165,13 @@ module.exports.listen = function (app, console){
 						if(voteMSG.split(" ")[2] == io.sockets.sockets[io.sockets.clients()[index].id].user)
 							io.sockets.socket(io.sockets.clients()[index].id).disconnect();
 					}
-							
+
 				}
 				}, 20000);
 			}
 		});
 
-		
+
 		//New msg, we retransmit it to the room users except to the user who sent it
 		socket.on('sendall', function(data){
 			var address = socket.handshake.address;
@@ -185,7 +190,7 @@ module.exports.listen = function (app, console){
 			}else
 			if(data.msg != '') //do not send it if its an empty msg
 				socket.broadcast.to(socket.room).emit('msg', { msg: data.msg, user: socket.user , color: socket.color});
-			
+
 		})
 
 		socket.on('writting', function(data){
@@ -194,21 +199,21 @@ module.exports.listen = function (app, console){
 
 		socket.on('cancelVote', function(){
 			if(socket.user == 'Jairo' || socket.user == "Maria" || socket.user == randomAdmin){
-					socket.broadcast.to(socket.room).emit('msg', { msg: 'Vote has been canceled with ' + Yvotes + ' \'Yes\' votes and ' + Nvotes + ' \'No\' votes' , user: 'SyStem' , color: 'orange'});	
-					socket.emit('msg', { msg: 'Vote has been canceled with ' + Yvotes + ' \'Yes\' votes and ' + Nvotes + ' \'No\' votes' , user: 'SyStem' , color: 'orange'});	
+					socket.broadcast.to(socket.room).emit('msg', { msg: 'Vote has been canceled with ' + Yvotes + ' \'Yes\' votes and ' + Nvotes + ' \'No\' votes' , user: 'SyStem' , color: 'orange'});
+					socket.emit('msg', { msg: 'Vote has been canceled with ' + Yvotes + ' \'Yes\' votes and ' + Nvotes + ' \'No\' votes' , user: 'SyStem' , color: 'orange'});
 					voting = "false";
 					Nvotes = 0;
 					Yvotes = 0;
-					votePeople = 0;	
-			}				
+					votePeople = 0;
+			}
 		})
-		
+
 
 		socket.on('update', function(data){
 			editorData = data.data;
 			socket.broadcast.to(socket.room).emit('update', {data: editorData});
 		});
-		
+
 		socket.on('disconnect', function(){
 			list.pop(socket.filter);
 			if(!(typeof socket.user === 'undefined')){
@@ -263,13 +268,13 @@ function regUser(user, password, socket){
 			    } else {
 				socket.emit('created');
 			    }
-			}); 
+			});
 		}
 	});
 }
 
 
-	
+
 	//el interval debe estar fuera de sockets.on('connection') sino se ejecutara un interval por cada nueva conexion
 	setInterval(function(){		//creamos un interval que ejecute la funcion cada X segundos
 			var index;			//un indice para el bucle
@@ -279,6 +284,6 @@ function regUser(user, password, socket){
 				list = list + "/" + io.sockets.clients()[index].user;		//las juntamos todas en un string(por defecto los nombres de las rooms tienen un / delante, asi que no le añadimos ningun caracter entre una y otra pues usaremos ese)
 			io.sockets.emit('rooms', {msg: list});		//mandamos la lista(string)
 		}, 5000);				// 5 segundos
-	
+
 	return io
 }
