@@ -2593,3 +2593,5 @@ info: socket.io started
 [90m22:35:20[39m[32m   ***  User: [39masd[32m  |  Room: [39masd[32m  |  IP: [39m85.137.172.120[32m  ***[39m
 user: asd pass: asd
 Password in text: asd
+[90m22:43:13[39m[32m   User [39masd[32m disconnected[39m
+[90m22:43:15[39m[36m   Socket connected from IP: [39m85.137.172.120
