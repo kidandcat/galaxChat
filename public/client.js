@@ -28,7 +28,7 @@ socket.on('NewUserName', function (data) {
 	document.getElementById("hidder1").style["display"] = "none";
 	document.getElementById("hidder2").style["display"] = "block";
 	document.getElementById('send').focus();
-	if(user == 'Jairo' || user == 'Maria'){
+	if(user == '@TheBlueKing'){
 		document.getElementById('deleteName').style["display"] = "block";
 		document.getElementById('deleteButton').style["display"] = "block";
 	}
