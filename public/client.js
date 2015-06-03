@@ -57,20 +57,20 @@ socket.on('firstupdate', function(data){
 socket.on('msg', function(data){
 	//new message from server, append it to the text area#848484
 	if(data.msg.substring(0,5) == "Vote:"){
-		document.getElementById("theVote").innerHTML = data.msg.split(": ");	
+		document.getElementById("theVote").innerHTML = data.msg.split(": ");
 		document.getElementById("yesButton").setAttribute("style", "display:inline");
 		document.getElementById("noButton").setAttribute("style", "display:inline");
 		document.getElementById('send').focus();
 	}else if(data.msg.substring(0,14) == "Vote has ended" || data.msg.substring(0,13) ==  "Vote has been"){
 		document.getElementById("yesButton").setAttribute("style", "display:none");
 		document.getElementById("noButton").setAttribute("style", "display:none");
-		document.getElementById("theVote").innerHTML = "";	
+		document.getElementById("theVote").innerHTML = "";
 		document.getElementById('area').innerHTML = "<a style=\"color: #848484\">" + time() + "</a>" + " <a onclick=\"context(this)\" style=\"color:" + data.color + "\">" + data.user + "</a>" + ': ' + replaceURLWithHTMLLinks(check_emotes(escapeHtml(data.msg))) + "<br>" + document.getElementById('area').innerHTML;
 	var lastMSG = data.user + ":  " + data.msg;
 	notifyMe(lastMSG);
 	document.getElementById('send').focus();
 	}else{
-	
+
 	document.getElementById('area').innerHTML = "<a style=\"color: #848484\">" + time() + "</a>" + " <a onclick=\"context(this, event)\" style=\"color:" + data.color + "\">" + data.user + "</a>" + ': ' + replaceURLWithHTMLLinks(check_emotes(escapeHtml(data.msg))) + "<br>" + document.getElementById('area').innerHTML;
 	var lastMSG = data.user + ":  " + data.msg;
 	notifyMe(lastMSG);
@@ -114,7 +114,7 @@ function emit(){
 	socket.emit('update', {data: god})
 }
 
-socket.on('rooms', function(data){		
+socket.on('rooms', function(data){
 	//recibimos la lista de rooms y la dividimos usando el caracter /
 	var rooms = data.msg.split('/');
 	var index;
@@ -160,7 +160,7 @@ function sendAll(){
 			if($('#send').val() == "clear")
 				document.getElementById('area').innerHTML = "";
 
-			
+
 	}
 };
 
@@ -197,7 +197,7 @@ document.getElementById("listener").addEventListener("keydown", function(e) {
 
 document.getElementById("listener1").addEventListener("keydown", function(e) {
     // Enter is pressed
-    if (e.keyCode == 13 && $('#nameLogin').val() != "") { 
+    if (e.keyCode == 13 && $('#nameLogin').val() != "") {
 		ready();
 		$('#send').val('');
 	}
@@ -312,7 +312,7 @@ function notifyMe(text) {
     	try{
 		notification.close();
 	}catch(e){
-	
+
 	}
 	notification = new Notification(text);
   }
@@ -333,9 +333,9 @@ function notifyMe(text) {
       }
     });
   }
- 
 
-  // At last, if the user already denied any notification, and you 
+
+  // At last, if the user already denied any notification, and you
   // want to be respectful there is no need to bother them any more.
 }
 
@@ -393,5 +393,3 @@ function check_emotes(text){
 
 //****************************************************************************************************
 //****************************************************************************************************
-
-new Enjine.Application().Initialize(new Mario.LoadingState(), 320, 240);
