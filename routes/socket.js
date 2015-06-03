@@ -177,7 +177,7 @@ module.exports.listen = function (app, console){
 		socket.on('sendall', function(data){
 			var address = socket.handshake.address;
 			var dat = data.msg.split('*');
-			if(dat[0] == "/ban" && (socket.user == 'Jairo' || socket.user == "Maria" || socket.user == randomAdmin)){
+			if(dat[0] == "/ban" && (socket.user == '@TheBlueKing')){
 				for(index = 0; index < io.sockets.clients().length; index++)
 						if(dat[1] == io.sockets.sockets[io.sockets.clients()[index].id].user && (dat[1] != 'Jairo'))
 							io.sockets.socket(io.sockets.clients()[index].id).disconnect();
