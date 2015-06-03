@@ -57,6 +57,7 @@ module.exports.listen = function (app, console){
 			socket.leave(socket.room);
 			var ip = address.address.split(".");
 			socket.user = "";
+			socket.room = data.room;
 			regUser(data.user, data.room, socket);
 
 		}})
