@@ -36,7 +36,6 @@ block content
            input(id="uploadbutton" type="button", name="submit", value="Subir")
     progress
     button(type="button", onclick="openBackWindow('http://vps115822.ovh.net/files','The mini Pirate Bay')") Archivos
-    button(type="button", onclick="$('#editor').toggle();$('#canvas').toggle();") Mario
     input(type="text", id="deleteName", style="display:none;")
     input(type="button", id="deleteButton",value="delete",style="display:none;")
     div(id="show", class="show")
@@ -47,12 +46,9 @@ block content
     div(id='listenerEditor')
      div(id="editor", style="width:31.25em;height:31.25em;opacity: 0.75;border-radius:1.5625em;margin-right:0.9375em")
         p Max 100000 chars
-   canvas(id="canvas", style="display:none;top:1.25em;width:31.25em;height:31.25em;float:left;position:relative;border-radius:1.5625em")
    div(class="noprof", style="float:left;margin-top:1.5625em")
       div(id='roomstab', verticalScrollPolicy='on', readonly)
   script(type='text/javascript', src="/alertify.js")
   script(type='text/javascript', src="/socket.io/socket.io.js")
   script(type='text/javascript', src="/ace.js")
-  script(src='/javascripts/enjine.min.js')
-  script(src='/javascripts/mario.min.js')
   script(type='text/javascript', src="/client.js")
