@@ -61,11 +61,6 @@ module.exports.listen = function (app, console){
 
 		}})
 
-		socket.on('username', function(data){
-			if(data.user != ''){
-				socket.user = data.user;
-			}
-		})
 
 		socket.on('delete',function(data){
 			if(data.filename != ""){
