@@ -54,13 +54,12 @@ module.exports.listen = function (app, console){
 			if(data.room == '' || data.user == ''){}
 			else{
 			console.log(time().grey + '   ***  User: '.green + data.user + '  |  Room: '.green + data.room + '  |  IP: '.green + address.address + '  ***'.green)
-			socket.leave(socket.room);
+
 			var ip = address.address.split(".");
-			socket.user = "";
-			socket.room = data.room;
-			//regUser(data.user, data.room, socket);
-			//*********
 			socket.user = data.user;
+			socket.room = data.room;
+			//*********
+
 			socket.join(socket.room);
 			socket.emit('NewUserName', { user: socket.user, room: socket.room })
 			socket.broadcast.to(socket.room).emit('msg', { msg: 'User ' + socket.user + ' connected' , user: 'SyStem' , color: 'orange'});
