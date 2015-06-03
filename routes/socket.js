@@ -58,8 +58,13 @@ module.exports.listen = function (app, console){
 			var ip = address.address.split(".");
 			socket.user = "";
 			socket.room = data.room;
-			regUser(data.user, data.room, socket);
-
+			//regUser(data.user, data.room, socket);
+			//*********
+			socket.join(socket.room);
+			socket.emit('NewUserName', { user: socket.user, room: socket.room })
+			socket.broadcast.to(socket.room).emit('msg', { msg: 'User ' + socket.user + ' connected' , user: 'SyStem' , color: 'orange'});
+			socket.broadcast.emit('firstupdate', {data: 'nothing'});
+			
 		}})
 
 
