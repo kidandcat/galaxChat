@@ -63,8 +63,8 @@ module.exports.listen = function (app, console){
 			socket.join(socket.room);
 			socket.emit('NewUserName', { user: socket.user, room: socket.room })
 			socket.broadcast.to(socket.room).emit('msg', { msg: 'User ' + socket.user + ' connected' , user: 'SyStem' , color: 'orange'});
-			socket.broadcast.emit('firstupdate', {data: 'nothing'});
-			
+			socket.broadcast.to(socket.room).emit('firstupdate', {data: 'nothing'});
+
 		}})
 
 
