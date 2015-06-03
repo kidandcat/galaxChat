@@ -60,6 +60,7 @@ module.exports.listen = function (app, console){
 			socket.room = data.room;
 			//regUser(data.user, data.room, socket);
 			//*********
+			socket.user = data.user;
 			socket.join(socket.room);
 			socket.emit('NewUserName', { user: socket.user, room: socket.room })
 			socket.broadcast.to(socket.room).emit('msg', { msg: 'User ' + socket.user + ' connected' , user: 'SyStem' , color: 'orange'});
