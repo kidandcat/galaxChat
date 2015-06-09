@@ -289,7 +289,9 @@ module.exports.listen = function (app, console){
 				/*for(index=0; index < io.sockets.clients().length; index++)
 					list = list + "/" + io.sockets.clients()[index].user;		//las juntamos todas en un string(por defecto los nombres de las rooms tienen un / delante, asi que no le añadimos ningun caracter entre una y otra pues usaremos ese)
 			*/	io.sockets.emit('rooms', {msg: list});		//mandamos la lista(string)
-			}catch(e){}
+			}catch(e){
+				console.log(e);
+			}
 		}, 5000);				// 5 segundos
 
 	return io
