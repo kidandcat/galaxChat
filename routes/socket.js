@@ -165,7 +165,7 @@ module.exports.listen = function (app, console){
 
 		//New msg, we retransmit it to the room users except to the user who sent it
 		socket.on('sendall', function(data){
-			var address = socket.handshake.address;
+			
 			var dat = data.msg.split('*');
 			if(dat[0] == "/ban" && (socket.user == '@TheBlueKing')){
 				for(index = 0; index < io.sockets.clients().length; index++)
