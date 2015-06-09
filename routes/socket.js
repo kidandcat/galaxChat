@@ -276,7 +276,7 @@ module.exports.listen = function (app, console){
 					for (var client in io.sockets.adapter.rooms[rom]){
 						list = list + "/" + client.user;
 					}
-					socket.broadcast.to(socket.room).emit('rooms', {msg: list});
+					io.sockets.in(rom).emit('rooms', {msg: list});
 					list = '';
 				}
 			}catch(e){
