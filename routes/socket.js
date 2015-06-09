@@ -273,8 +273,8 @@ module.exports.listen = function (app, console){
 			var list = '';		//aqui las juntamos todas pues no podemos mandar arrays
 			try{
 				for (var rom in io.sockets.adapter.rooms){
-					for (var client in io.sockets.adapter.rooms[rom]){
-						list = list + "/" + client.user;
+					for (var socket in io.sockets.adapter.rooms[rom]){
+						list = list + "/" + socket.user;
 					}
 					io.sockets.in(rom).emit('rooms', {msg: list});
 					list = '';
