@@ -36,9 +36,8 @@ module.exports.listen = function (app, console){
 
 
 	io.sockets.on('connection', function(socket){
-		var address = socket.handshake.address;
 		//new client connection
-		console.log(time().grey + '   Socket connected from IP: '.cyan + address.address)
+		console.log(time().grey + '   Socket connected from IP: '.cyan + socket.request.connection.remoteAddress)
 
 		//check user and room and join the user to the room, forcing him to leave the last room before it and send confirmation msg
 		socket.on('user', function(data){
@@ -46,7 +45,7 @@ module.exports.listen = function (app, console){
 			else{
 			console.log(time().grey + '   ***  User: '.green + data.user + '  |  Room: '.green + data.room + '  |  IP: '.green + address.address + '  ***'.green)
 
-			var ip = address.address.split(".");
+			var ip = socket.request.connection.remoteAddress;
 			socket.user = data.user;
 			socket.room = data.room;
 			//*********
