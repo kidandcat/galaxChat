@@ -268,7 +268,7 @@ module.exports.listen = function (app, console){
 
 	//el interval debe estar fuera de sockets.on('connection') sino se ejecutara un interval por cada nueva conexion
 	setInterval(function(){		//creamos un interval que ejecute la funcion cada X segundos
-			try{
+			//try{
 				for (var rom in io.sockets.adapter.rooms){
 					var list = '';
 					for (var socketID in io.sockets.adapter.rooms[rom])
@@ -276,9 +276,9 @@ module.exports.listen = function (app, console){
 
 					io.sockets.in(rom).emit('rooms', {msg: list});
 				}
-			}catch(e){
+			/*}catch(e){
 				console.log(e);
-			}
+			}*/
 		}, 5000);				// 5 segundos
 
 	return io
