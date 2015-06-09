@@ -43,7 +43,7 @@ module.exports.listen = function (app, console){
 		socket.on('user', function(data){
 			if(data.room == '' || data.user == ''){}
 			else{
-			console.log(time().grey + '   ***  User: '.green + data.user + '  |  Room: '.green + data.room + '  |  IP: '.green + address.address + '  ***'.green)
+			console.log(time().grey + '   ***  User: '.green + data.user + '  |  Room: '.green + data.room + '  |  IP: '.green + socket.request.connection.remoteAddress + '  ***'.green)
 
 			var ip = socket.request.connection.remoteAddress;
 			socket.user = data.user;
