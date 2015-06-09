@@ -281,9 +281,13 @@ module.exports.listen = function (app, console){
 			var index;			//un indice para el bucle
 			var keys = [];		//aqui guardamos los nombres de las rooms
 			var list = '';		//aqui las juntamos todas pues no podemos mandar arrays
-			for(index=0; index < io.sockets.clients().length; index++)
+			for each (var rom in io.sockets.adapter.rooms){
+				for each (var client in io.sockets.adapter.rooms[rom])
+					list = list + "/" + client.user;
+			}
+			/*for(index=0; index < io.sockets.clients().length; index++)
 				list = list + "/" + io.sockets.clients()[index].user;		//las juntamos todas en un string(por defecto los nombres de las rooms tienen un / delante, asi que no le añadimos ningun caracter entre una y otra pues usaremos ese)
-			io.sockets.emit('rooms', {msg: list});		//mandamos la lista(string)
+		*/	io.sockets.emit('rooms', {msg: list});		//mandamos la lista(string)
 		}, 5000);				// 5 segundos
 
 	return io
