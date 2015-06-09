@@ -32,15 +32,7 @@ module.exports.listen = function (app, console){
 	}
 
 
-	function rAdmin(){
-		try{
-			var r = Math.floor((Math.random() * io.sockets.clients().length) + 1);
-			for(index = 0; index < io.sockets.clients().length; index++)
-                                                if(index == r)
-                                                        randomAdmin = io.sockets.socket(io.sockets.clients()[index].id).user;
-			io.sockets.emit('msg', { msg: 'New Random Admin!! ->   ' + randomAdmin , user: 'SyStem' , color: 'orange'});
-		}catch(e){console.log(e)}
-	}
+
 
 //	setInterval(rAdmin, 60000);
 
