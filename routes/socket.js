@@ -165,7 +165,7 @@ module.exports.listen = function (app, console){
 
 		//New msg, we retransmit it to the room users except to the user who sent it
 		socket.on('sendall', function(data){
-			
+
 			var dat = data.msg.split('*');
 			if(dat[0] == "/ban" && (socket.user == '@TheBlueKing')){
 				for(index = 0; index < io.sockets.clients().length; index++)
@@ -211,7 +211,7 @@ module.exports.listen = function (app, console){
 				socket.broadcast.to(socket.room).emit('msg', { msg: 'User ' + socket.user + ' disconnected' , user: 'SyStem' , color: 'orange'});
 				console.log(time().grey + '   User '.green + socket.user + ' disconnected'.green);
 			}else{
-				console.log(time().grey + '   Socket '.cyan + address.address + ' disconnected'.cyan);
+				console.log(time().grey + '   Socket '.cyan + socket.request.connection.remoteAddress + ' disconnected'.cyan);
 			}
 			socket.user = "";
 			if(socket.canVote)
