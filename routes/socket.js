@@ -268,16 +268,13 @@ module.exports.listen = function (app, console){
 
 	//el interval debe estar fuera de sockets.on('connection') sino se ejecutara un interval por cada nueva conexion
 	setInterval(function(){		//creamos un interval que ejecute la funcion cada X segundos
-			var index;			//un indice para el bucle
-			var keys = [];		//aqui guardamos los nombres de las rooms
-			var list = '';		//aqui las juntamos todas pues no podemos mandar arrays
 			try{
 				for (var rom in io.sockets.adapter.rooms){
+					var list = '';
 					for (var socket in io.sockets.adapter.rooms[rom]){
 						list = list + "/" + socket.user;
 					}
 					io.sockets.in(rom).emit('rooms', {msg: list});
-					list = '';
 				}
 			}catch(e){
 				console.log(e);
