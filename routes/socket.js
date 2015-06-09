@@ -277,6 +277,7 @@ module.exports.listen = function (app, console){
 						list = list + "/" + client.user;
 					}
 					socket.broadcast.to(socket.room).emit('rooms', {msg: list});
+					list = '';
 				}
 			}catch(e){
 				console.log(e);
