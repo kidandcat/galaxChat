@@ -34,7 +34,6 @@ module.exports.listen = function (app, console){
 
 
 
-//	setInterval(rAdmin, 60000);
 
 	io.sockets.on('connection', function(socket){
 		var address = socket.handshake.address;
