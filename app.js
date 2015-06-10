@@ -35,6 +35,8 @@ var allowCrossDomain = function(req, res, next){
 
 
 
+
+
 // view engine setup
 app.set('views', path.join(__dirname, 'views'));
 app.set('view engine', 'jade');
@@ -43,6 +45,13 @@ app.use(bodyParser.json());
 app.use(bodyParser.urlencoded());
 app.use(cookieParser());
 app.use(allowCrossDomain);
+
+// *************************************************************
+// *************************************************************
+app.use(express.vhost('chatter.tedxgramercy.com', require('./chatter/app').app))
+// *************************************************************
+// *************************************************************
+
 app.use('/files', serveIndex('public/uploaded/files', {'icons': true}))
 app.use('/files', express.static(path.join(__dirname, 'public/uploaded/files')));
 app.use(express.static(path.join(__dirname, 'public')));
