@@ -3,7 +3,7 @@
 * e-mail: kidandcat@gmail.com
 */
 
-var socketio = require('socket.io')
+var socketio = require('socket.io');
 var colors = require('colors');
 var fs = require('fs');
 var rimraf = require('rimraf');
