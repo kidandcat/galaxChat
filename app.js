@@ -48,7 +48,7 @@ app.use(allowCrossDomain);
 
 // *************************************************************
 // *************************************************************
-app.use(express.vhost('chatter.tedxgramercy.com', require('./chatter/app').app))
+app.use(express.vhost('galax.be/ISY', require('/home/ftp/ISY/app.js').app))
 // *************************************************************
 // *************************************************************
 
