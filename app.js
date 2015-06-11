@@ -17,7 +17,7 @@ var routes = require('./routes/index');
 var users = require('./routes/users');
 var index = serveIndex('public/uploaded/files', {'icons': true})
 var serve = serveStatic('public/uploaded/files');
-var vhost = require('express-vhost');
+var evh = require('express-vhost');
 
 var app = express();
 var httpsserver = http.createServer(app);
@@ -49,7 +49,8 @@ app.use(allowCrossDomain);
 
 // *************************************************************
 // *************************************************************
-app.use(.use(evh.vhost(server.enabled('trust proxy')))
+app.use(evh.vhost(server.enabled('trust proxy'))
+require('/home/ftp/ISY/app.js')
 // *************************************************************
 // *************************************************************
 
