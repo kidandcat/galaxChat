@@ -43,7 +43,7 @@ app.use(allowCrossDomain);
 
 // *************************************************************
 // *************************************************************
-app.use(evh.vhost(server.enabled('trust proxy')));
+app.use(evh.vhost(app.enabled('trust proxy')));
 
 evh.register('ISY', require('/home/ftp/ISY/app.js'));
 // *************************************************************
