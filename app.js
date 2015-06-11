@@ -45,7 +45,7 @@ app.use(allowCrossDomain);
 // *************************************************************
 app.use(evh.vhost(app.enabled('trust proxy')));
 
-evh.register('ISY', require('/home/ftp/ISY/app.js'));
+evh.register('isy.galax.be', require('/home/ftp/ISY/app.js'));
 // *************************************************************
 // *************************************************************
 
