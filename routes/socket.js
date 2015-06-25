@@ -26,7 +26,7 @@ module.exports.listen = function (app, console){
 	ioMain = socketio.listen(app)
 	io = ioMain.of('/chat');
 	//set log mode to normal, if not it is default set in debug mode
-	io.set('log level', 1);
+	//io.set('log level', 1);
 	function time() {
 		var time = new Date();
 		return ((time.getHours() < 10)?"0":"") + time.getHours() +":"+ ((time.getMinutes() < 10)?"0":"") + time.getMinutes() +":"+ ((time.getSeconds() < 10)?"0":"") + time.getSeconds();
