@@ -23,8 +23,8 @@ module.exports.listen = function (app, console){
 	var votePeople = 0;
 	var LineByLineReader = require('line-by-line');
 	//listen express app
-	ioMain = socketio.listen(app)
-	io = ioMain.of('/chat');
+	var ioMain = socketio.listen(app)
+	var io = ioMain.of('/chat');
 	//set log mode to normal, if not it is default set in debug mode
 	//io.set('log level', 1);
 	function time() {
