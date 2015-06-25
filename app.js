@@ -50,6 +50,9 @@ app.use(evh.vhost(app.enabled('trust proxy')));
 evh.register('isy.galax.be', require('/home/ftp/ISY/app.js'));
 // *************************************************************
 // *************************************************************
+var COOKIE_SECRET = 'secret';
+var COOKIE_NAME = 'sid';
+
 
 var secureserver = httpsserver.listen(80);
 app.use(session({
