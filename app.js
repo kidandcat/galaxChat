@@ -61,7 +61,12 @@ app.use(session({
 }));
 var galaxIO = socketio.listen(secureserver);
 galaxIO.use(function(socket, next) {
-    session(socket.request, socket.request.res, next);
+    var req = socket.handshake;
+    var res = {};
+    cookieParser(req, res, function(err) {
+        if (err) return next(err);
+        session(req, res, next);
+    });
 });
 
 
