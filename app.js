@@ -21,6 +21,7 @@ var serve = serveStatic('public/uploaded/files');
 var evh = require('express-vhost');
 var socketio = require('socket.io');
 var sessionStore = require('sessionstore');
+cookie = require('cookie');
 
 var app = express();
 var httpsserver = http.createServer(app);
