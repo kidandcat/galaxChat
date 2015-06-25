@@ -58,7 +58,7 @@ var secureserver = httpsserver.listen(80);
 app.use(cookieParser(COOKIE_SECRET));
 app.use(session({
     name: COOKIE_NAME,
-    store: sessionStore,
+    store: sessionStore.createSessionStore(),
     secret: COOKIE_SECRET,
     saveUninitialized: true,
     resave: true,
