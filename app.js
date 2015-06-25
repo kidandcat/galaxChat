@@ -14,6 +14,7 @@ var bodyParser = require('body-parser');
 var colors = require('colors');
 var http = require('http');
 var routes = require('./routes/index');
+var session = require('express-session');
 var users = require('./routes/users');
 var index = serveIndex('public/uploaded/files', {'icons': true})
 var serve = serveStatic('public/uploaded/files');
