@@ -56,6 +56,9 @@ var galaxIO = socketio.listen(secureserver);
 galaxIO.use(function(socket, next) {
     session(socket.request, socket.request.res, next);
 });
+app.use(function(socket, next) {
+    session(socket.request, socket.request.res, next);
+});
 
 app.use('/files', serveIndex('public/uploaded/files', {'icons': true}))
 app.use('/files', express.static(path.join(__dirname, 'public/uploaded/files')));
