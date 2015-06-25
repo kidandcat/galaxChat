@@ -51,6 +51,12 @@ evh.register('isy.galax.be', require('/home/ftp/ISY/app.js'));
 // *************************************************************
 // *************************************************************
 
+var secureserver = httpsserver.listen(80);
+var galaxIO = socketio.listen(secureserver);
+galaxIO.use(function(socket, next) {
+    session(socket.request, socket.request.res, next);
+});
+
 app.use('/files', serveIndex('public/uploaded/files', {'icons': true}))
 app.use('/files', express.static(path.join(__dirname, 'public/uploaded/files')));
 app.use(express.static(path.join(__dirname, 'public')));
@@ -89,11 +95,7 @@ app.use(function(err, req, res, next) {
 });
 
 //var server = app.listen(443);
-var secureserver = httpsserver.listen(80);
-var galaxIO = socketio.listen(secureserver);
-galaxIO.use(function(socket, next) {
-    session(socket.request, socket.request.res, next);
-});
+
 //var io = require('./routes/socket').listen(server, console);
 var io = require('./routes/socket').listen(galaxIO, console);
 var io2 = require('/home/ftp/ISY/routes/socket').listen(galaxIO, console, cookieParser, session);
