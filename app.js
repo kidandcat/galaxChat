@@ -91,10 +91,10 @@ app.use(function(err, req, res, next) {
     });
 });
 
-//var server = app.listen(443);
+var server = app.listen(443);
 
 //var io = require('./routes/socket').listen(server, console);
-var io = require('./routes/socket').listen(galaxIO, console);
+var io = require('./routes/socket').listen(server, console);
 //var io2 = require('/home/ftp/ISY/routes/socket').listen(galaxIO, console, cookieParser, session);
 module.exports = app;
 console.log('           SERVER  RUNNING'.magenta);
