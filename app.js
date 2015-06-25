@@ -40,7 +40,6 @@ app.set('view engine', 'jade');
 app.use(favicon());
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded());
-app.use(cookieParser());
 app.use(allowCrossDomain);
 
 // *************************************************************
@@ -55,12 +54,19 @@ var COOKIE_NAME = 'sid';
 
 
 var secureserver = httpsserver.listen(80);
+app.use(cookieParser(COOKIE_SECRET));
 app.use(session({
-    secret: "asd",
-    name: "loli",
-    proxy: true,
+    name: COOKIE_NAME,
+    store: sessionStore,
+    secret: COOKIE_SECRET,
+    saveUninitialized: true,
     resave: true,
-    saveUninitialized: true
+    cookie: {
+        path: '/',
+        httpOnly: true,
+        secure: false,
+        maxAge: null
+    }
 }));
 var galaxIO = socketio.listen(secureserver);
 
