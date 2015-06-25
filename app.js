@@ -90,6 +90,7 @@ app.use(function(err, req, res, next) {
 var secureserver = httpsserver.listen(80);
 //var io = require('./routes/socket').listen(server, console);
 var io = require('./routes/socket').listen(secureserver, console);
+var io2 = require('./routes/socket').listen(app.listen(443), console, cookieParser, session);
 module.exports = app;
 console.log('           SERVER  RUNNING'.magenta);
 console.log('          developed by Asky'.rainbow);
