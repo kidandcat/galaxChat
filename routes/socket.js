@@ -12,7 +12,7 @@ function trim (myString){
 	return myString.replace(/^\s+/g,'').replace(/\s+$/g,'');
 }
 
-module.exports.listen = function (app, console){
+module.exports.listen = function (galaxIO, console){
 	var list = [];
 	var voteMSG = '';
 	var randomAdmin = '';
