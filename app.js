@@ -83,10 +83,10 @@ galaxIO.use(function(socket, next) {
         if (! cookies[COOKIE_NAME]) {
             return next(new Error('Missing cookie ' + COOKIE_NAME));
         }
-        var sid = cookieParser.signedCookie(cookies[COOKIE_NAME], COOKIE_SECRET);
+        v/*ar sid = cookieParser.signedCookie(cookies[COOKIE_NAME], COOKIE_SECRET);
         if (! sid) {
             return next(new Error('Cookie signature is not valid'));
-        }
+        }*/
         console.log('session ID ( %s )', sid);
         data.sid = sid;
         sessionStore.get(sid, function(err, session) {
