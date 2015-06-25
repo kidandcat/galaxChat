@@ -56,7 +56,14 @@ var galaxIO = socketio.listen(secureserver);
 galaxIO.use(function(socket, next) {
     session(socket.request, socket.request.res, next);
 });
-app.use(session({secret: "Nightcore - This little girl"}));
+app.use(app.use(session({
+    secret: "asd",
+    name: "loli",
+    store: sessionStore, // connect-mongo session store
+    proxy: true,
+    resave: true,
+    saveUninitialized: true
+})););
 
 app.use('/files', serveIndex('public/uploaded/files', {'icons': true}))
 app.use('/files', express.static(path.join(__dirname, 'public/uploaded/files')));
