@@ -24,7 +24,7 @@ module.exports.listen = function (app, console){
 	var LineByLineReader = require('line-by-line');
 	//listen express app
 	var ioMain = socketio.listen(app)
-	var io = ioMain.sockets.of('/chat');
+	var io = ioMain.of('/chat');
 	//set log mode to normal, if not it is default set in debug mode
 	//io.set('log level', 1);
 	function time() {
@@ -36,7 +36,7 @@ module.exports.listen = function (app, console){
 
 
 
-	io.sockets.on('connection', function(socket){
+	io.on('connection', function(socket){
 		//new client connection
 		console.log(time().grey + '   Socket connected from IP: '.cyan + socket.request.connection.remoteAddress)
 
