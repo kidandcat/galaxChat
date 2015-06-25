@@ -39,8 +39,6 @@ module.exports.listen = function (galaxIO, console){
 		//new client connection
 		console.log(time().grey + '   Socket connected from IP: '.cyan + socket.request.connection.remoteAddress)
 
-		console.log(":r:  ".red + socket.handshake.session);
-		console.log(":r:  ".red + socket.request.session);
 		//check user and room and join the user to the room, forcing him to leave the last room before it and send confirmation msg
 		socket.on('user', function(data){
 			if(data.room == '' || data.user == ''){}
