@@ -45,76 +45,11 @@ app.use(bodyParser.urlencoded());
 app.use(allowCrossDomain);
 
 
-
-// *************** COOKIE MAGIC **********
-
-var COOKIE_SECRET = 'secret';
-var COOKIE_NAME = 'sid';
-var stores = sessionStore.createSessionStore();
-
-
-var secureserver = httpsserver.listen(80);
-app.use(cookieParser(COOKIE_SECRET));
-app.use(session({
-    name: COOKIE_NAME,
-    store: stores,
-    secret: COOKIE_SECRET,
-    saveUninitialized: true,
-    resave: true,
-    cookie: {
-        path: '/',
-        httpOnly: true,
-        secure: false,
-        maxAge: null
-    }
-}));
-var galaxIO = socketio.listen(secureserver);
-galaxIO.use(function(socket, next) {
-    try {
-				var signature = require('cookie-signature');
-        var data = socket.handshake || socket.request;
-        if (! data.headers.cookie) {
-            return next(new Error('Missing cookie headers'));
-        }
-        console.log('cookie header ( %s )', JSON.stringify(data.headers.cookie));
-        var cookies = cookie.parse(data.headers.cookie);
-        console.log('cookies parsed ( %s )', JSON.stringify(cookies));
-        if (! cookies[COOKIE_NAME]) {
-            return next(new Error('Missing cookie ' + COOKIE_NAME));
-        }
-				function signedCookies(str, secret){
-				  return str.substr(0, 2) === 's:'
-				    ? signature.unsign(str.slice(2), secret)
-				    : str;
-				};
-        var sid = signedCookies(cookies[COOKIE_NAME], COOKIE_SECRET);
-        if (! sid) {
-            return next(new Error('Cookie signature is not valid'));
-        }
-        console.log('session ID ( %s )', sid);
-        data.sid = sid;
-				stores.get(sid, function(err, session) {
-            if (err) return next(err);
-            if (! session) return next(new Error('session not found'));
-            data.session = session;
-            next();
-        });
-    } catch (err) {
-        console.error(err.stack);
-        next(new Error('Internal server error'));
-    }
-});
-
-
-
-
-
-
 // *************************************************************
 // *************************************************************
-app.use(evh.vhost(app.enabled('trust proxy')));
+//app.use(evh.vhost(app.enabled('trust proxy')));
 
-evh.register('isy.galax.be', require('/home/ftp/ISY/app.js'));
+//evh.register('isy.galax.be', require('/home/ftp/ISY/app.js'));
 // *************************************************************
 // *************************************************************
 
