@@ -44,13 +44,10 @@ app.use(bodyParser.json());
 app.use(bodyParser.urlencoded());
 app.use(allowCrossDomain);
 
-// *************************************************************
-// *************************************************************
-app.use(evh.vhost(app.enabled('trust proxy')));
 
-evh.register('isy.galax.be', require('/home/ftp/ISY/app.js'));
-// *************************************************************
-// *************************************************************
+
+// *************** COOKIE MAGIC **********
+
 var COOKIE_SECRET = 'secret';
 var COOKIE_NAME = 'sid';
 var stores = sessionStore.createSessionStore();
@@ -107,6 +104,20 @@ galaxIO.use(function(socket, next) {
         next(new Error('Internal server error'));
     }
 });
+
+
+
+
+
+
+// *************************************************************
+// *************************************************************
+app.use(evh.vhost(app.enabled('trust proxy')));
+
+evh.register('isy.galax.be', require('/home/ftp/ISY/app.js'));
+// *************************************************************
+// *************************************************************
+
 
 app.use('/files', serveIndex('public/uploaded/files', {'icons': true}))
 app.use('/files', express.static(path.join(__dirname, 'public/uploaded/files')));
