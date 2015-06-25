@@ -184,6 +184,8 @@ module.exports.listen = function (app, console){
 
 		})
 
+		
+
 		socket.on('writting', function(data){
 			socket.broadcast.to(socket.room).emit('writting', {user: socket.user, write: data.write});
 		});
