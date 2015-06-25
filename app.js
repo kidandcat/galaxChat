@@ -59,7 +59,6 @@ galaxIO.use(function(socket, next) {
 app.use(app.use(session({
     secret: "asd",
     name: "loli",
-    store: sessionStore, // connect-mongo session store
     proxy: true,
     resave: true,
     saveUninitialized: true
