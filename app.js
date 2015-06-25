@@ -53,14 +53,14 @@ evh.register('isy.galax.be', require('/home/ftp/ISY/app.js'));
 // *************************************************************
 var COOKIE_SECRET = 'secret';
 var COOKIE_NAME = 'sid';
-var store = sessionStore.createSessionStore();
+var stores = sessionStore.createSessionStore();
 
 
 var secureserver = httpsserver.listen(80);
 app.use(cookieParser(COOKIE_SECRET));
 app.use(session({
     name: COOKIE_NAME,
-    store: sessionStore.createSessionStore(),
+    store: stores,
     secret: COOKIE_SECRET,
     saveUninitialized: true,
     resave: true,
@@ -96,7 +96,7 @@ galaxIO.use(function(socket, next) {
         }
         console.log('session ID ( %s )', sid);
         data.sid = sid;
-        sessionStore.get(sid, function(err, session) {
+				stores.get(sid, function(err, session) {
             if (err) return next(err);
             if (! session) return next(new Error('session not found'));
             data.session = session;
