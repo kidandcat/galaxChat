@@ -90,9 +90,10 @@ app.use(function(err, req, res, next) {
 
 //var server = app.listen(443);
 var secureserver = httpsserver.listen(80);
+var galaxIO = socketio.listen(secureserver);
 //var io = require('./routes/socket').listen(server, console);
-var io = require('./routes/socket').listen(secureserver, console);
-var io2 = require('/home/ftp/ISY/routes/socket').listen(secureserver, console, cookieParser, session);
+var io = require('./routes/socket').listen(galaxIO, console);
+var io2 = require('/home/ftp/ISY/routes/socket').listen(galaxIO, console, cookieParser, session);
 module.exports = app;
 console.log('           SERVER  RUNNING'.magenta);
 console.log('          developed by Asky'.rainbow);
