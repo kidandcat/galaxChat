@@ -121,9 +121,9 @@ module.exports.listen = function (app, console){
 					console.log(voteMSG);
 					console.log(voteMSG.split(" ")[0]);
 					if(voteMSG.split(" ")[1] == 'kick'){
-						for(index = 0; index < io.sockets.clients().length; index++)
-						if(voteMSG.split(" ")[2] == io.sockets.sockets[io.sockets.clients()[index].id].user)
-							io.sockets.socket(io.sockets.clients()[index].id).disconnect();
+						for(index = 0; index < io.clients().length; index++)
+						if(voteMSG.split(" ")[2] == io.sockets[io.clients()[index].id].user)
+							io.socket(io.clients()[index].id).disconnect();
 					}
 
 				}
