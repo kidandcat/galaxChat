@@ -20,6 +20,7 @@ var index = serveIndex('public/uploaded/files', {'icons': true})
 var serve = serveStatic('public/uploaded/files');
 var evh = require('express-vhost');
 var socketio = require('socket.io');
+var sessionstore = require('sessionstore');
 
 var app = express();
 var httpsserver = http.createServer(app);
