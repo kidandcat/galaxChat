@@ -45,6 +45,11 @@ module.exports.listen = function (galaxIO, console){
 			else{
 			console.log(time().grey + '   ***  User: '.green + data.user + '  |  Room: '.green + data.room + '  |  IP: '.green + socket.request.connection.remoteAddress + '  ***'.green)
 
+
+			console.log(":r:  ".red + socket.handshake.session);
+			console.log(":r:  ".red + socket.request.session);
+
+
 			var ip = socket.request.connection.remoteAddress;
 			socket.user = data.user;
 			socket.room = data.room;
