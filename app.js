@@ -60,23 +60,32 @@ app.use(session({
     saveUninitialized: true
 }));
 var galaxIO = socketio.listen(secureserver);
-galaxIO.use(function (socket, next) {
- var handshake = socket.handshake;
-  if (handshake.headers.cookie) {
-  cookieParser()(handshake, {}, function (err) {
-  handshake.sessionID = connect.utils.parseSignedCookie(handshake.cookies[config.session.key], config.session.secret);
-    handshake.sessionStore = config.session.store;
-    handshake.sessionStore.get(handshake.sessionID, function (err, data) {
-      if (err) return next(err);
-      if (!data) return next(new Error('Invalid Session'));
-      handshake.session = new session.Session(handshake, data);
-      next();
-    });
-   });
- }
- else {
-  next(new Error('Missing Cookies'));
- }
+galaxIO.use(function(socket, next) {
+
+    var handshake = socket.handshake;
+
+    if (handshake.headers.cookie) {
+
+        cookieParser(config.sessionSecret)(handshake, {}, function(err) {
+
+            handshake.sessionID = handshake.signedCookies['connect.sid']; // <- 'connect.sid' > your key could be different, but this is the default
+            handshake.sessionStore = sessionStore;
+
+            handshake.sessionStore.get(handshake.sessionID, function(err, data) {
+
+                if (err) return next(err);
+
+                if (!data) return next(new Error('Invalid Session'));
+
+                handshake.session = new session.Session(handshake, data);
+                next();
+            });
+        });
+
+    } else {
+
+        next(new Error('Missing Cookies'));
+    }
 });
 
 
