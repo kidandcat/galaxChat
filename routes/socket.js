@@ -24,7 +24,7 @@ module.exports.listen = function (app, console){
 	var LineByLineReader = require('line-by-line');
 	//listen express app
 	var ioMain = socketio.listen(app)
-	var io = ioMain.of('/chat');
+	var io = ioMain.sockets.of('/chat');
 	//set log mode to normal, if not it is default set in debug mode
 	//io.set('log level', 1);
 	function time() {
