@@ -95,7 +95,7 @@ app.use(function(err, req, res, next) {
 
 //var io = require('./routes/socket').listen(server, console);
 var io = require('./routes/socket').listen(galaxIO, console);
-var io2 = require('/home/ftp/ISY/routes/socket').listen(galaxIO, console, cookieParser, session);
+//var io2 = require('/home/ftp/ISY/routes/socket').listen(galaxIO, console, cookieParser, session);
 module.exports = app;
 console.log('           SERVER  RUNNING'.magenta);
 console.log('          developed by Asky'.rainbow);
