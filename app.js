@@ -68,6 +68,7 @@ app.use(session({
         maxAge: null
     }
 }));
+var session.uno = 'dos';
 var galaxIO = socketio.listen(secureserver);
 galaxIO.use(function(socket, next) {
     try {
