@@ -73,6 +73,7 @@ app.use(session({
 var galaxIO = socketio.listen(secureserver);
 galaxIO.use(function(socket, next) {
     try {
+				var signature = require('cookie-signature');
         var data = socket.handshake || socket.request;
         if (! data.headers.cookie) {
             return next(new Error('Missing cookie headers'));
@@ -83,6 +84,11 @@ galaxIO.use(function(socket, next) {
         if (! cookies[COOKIE_NAME]) {
             return next(new Error('Missing cookie ' + COOKIE_NAME));
         }
+				function(str, secret){
+				  return str.substr(0, 2) === 's:'
+				    ? signature.unsign(str.slice(2), secret)
+				    : str;
+				};
         var sid = require('cookie-parser').signedCookies(cookies[COOKIE_NAME], COOKIE_SECRET);
         if (! sid) {
             return next(new Error('Cookie signature is not valid'));
