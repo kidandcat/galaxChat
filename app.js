@@ -14,7 +14,6 @@ var bodyParser = require('body-parser');
 var colors = require('colors');
 var http = require('http');
 var routes = require('./routes/index');
-var session = require('express-session');
 var users = require('./routes/users');
 var index = serveIndex('public/uploaded/files', {'icons': true})
 var serve = serveStatic('public/uploaded/files');
@@ -91,7 +90,7 @@ app.use(function(err, req, res, next) {
 var secureserver = httpsserver.listen(80);
 //var io = require('./routes/socket').listen(server, console);
 var io = require('./routes/socket').listen(secureserver, console);
-var io2 = require('/home/ftp/ISY/routes/socket').listen(secureserver, console, cookieParser, session);
+//var io2 = require('/home/ftp/ISY/routes/socket').listen(secureserver, console, cookieParser, session);
 module.exports = app;
 console.log('           SERVER  RUNNING'.magenta);
 console.log('          developed by Asky'.rainbow);
