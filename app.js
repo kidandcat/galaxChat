@@ -83,7 +83,7 @@ galaxIO.use(function(socket, next) {
         if (! cookies[COOKIE_NAME]) {
             return next(new Error('Missing cookie ' + COOKIE_NAME));
         }
-        var sid = cookieParser.signedCookie(cookies[COOKIE_NAME], COOKIE_SECRET);
+        var sid = require('cookie-parser').signedCookie(cookies[COOKIE_NAME], COOKIE_SECRET);
         if (! sid) {
             return next(new Error('Cookie signature is not valid'));
         }
