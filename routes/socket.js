@@ -23,7 +23,7 @@ module.exports.listen = function (app, console){
 	var votePeople = 0;
 	var LineByLineReader = require('line-by-line');
 	//listen express app
-	var io = socketio.listen(app).of('/chat');
+	io = socketio.listen(app).of('/chat');
 	//set log mode to normal, if not it is default set in debug mode
 	//io.set('log level', 1);
 	function time() {
@@ -184,7 +184,7 @@ module.exports.listen = function (app, console){
 
 		})
 
-		
+
 
 		socket.on('writting', function(data){
 			socket.broadcast.to(socket.room).emit('writting', {user: socket.user, write: data.write});
