@@ -2,7 +2,7 @@
 * Author: Jairo Caro-Accino Viciana
 * e-mail: kidandcat@gmail.com
 */
-var socket = io.connect();
+var socket = io.connect('/chat');
 var user;
 var EDITORLIMIT = 100000;	//Para evitar ataques de spam
 document.getElementById('nameLogin').focus();
